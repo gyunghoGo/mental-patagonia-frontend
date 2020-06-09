@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-compoenets";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 @font-face {
