@@ -40,5 +40,219 @@
       "category_title": "Books",
       "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw4c0d87fb/routing-tile/dickey_j_0534_cc_WEB_ClimbHub_RoutingCarousel_ClimbBooks.jpg?q=95&sw=670&"
     }
+  ],
+
+  "womenData": [
+    {
+      "id": 1,
+      "text": "Shop All"
+    },
+    {
+      "id": 2,
+      "text": "Jakets and Vests"
+    },
+    {
+      "id": 3,
+      "text": "Fleece"
+    },
+    {
+      "id": 4,
+      "text": "Shirts"
+    },
+    {
+      "id": 5,
+      "text": "Pants and Jeans"
+    },
+    {
+      "id": 6,
+      "text": "Shorts"
+    },
+    {
+      "id": 7,
+      "text": "Dress and Skirts"
+    },
+    {
+      "id": 8,
+      "text": "Overalls and Jumpsuits"
+    },
+    {
+      "id": 9,
+      "text": "Swimwear"
+    },
+    {
+      "id": 10,
+      "text": "Wetsuits"
+    },
+    {
+      "id": 11,
+      "text": "Waders and Gear"
+    },
+    {
+      "id": 12,
+      "text": "Used Gear"
+    }
+  ],
+  "menData": [
+    {
+      "id": 1,
+      "text": "Shop All",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 2,
+      "text": "New Arrivals",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 3,
+      "text": "Jackets and Vests",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 4,
+      "text": "Fleece",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 5,
+      "text": "Sweatshirts and Hoodies",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 6,
+      "text": "Sweaters",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 7,
+      "text": "Shirts",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 8,
+      "text": "T-Shirts",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 9,
+      "text": "Pants and Jeans",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 10,
+      "text": "Shorts",
+      "url": "/shop/mens"
+    },
+    {
+      "id": 11,
+      "text": "Boardshorts",
+      "url": "/shop/mens"
+    }
+  ],
+  "packData": [
+    {
+      "id": 1,
+      "text": "Shop All"
+    },
+    {
+      "id": 2,
+      "text": "Sleeping Bags"
+    },
+    {
+      "id": 3,
+      "text": "Black Holes Bags"
+    },
+    {
+      "id": 4,
+      "text": "Backpacks"
+    },
+    {
+      "id": 5,
+      "text": "Laptop Bags"
+    },
+    {
+      "id": 6,
+      "text": "Totes, Slings and Waist Packs"
+    },
+    {
+      "id": 7,
+      "text": "Duffel and Travel Bags"
+    },
+    {
+      "id": 8,
+      "text": "Technical Packs"
+    },
+    {
+      "id": 9,
+      "text": "Water Protective Bags"
+    },
+    {
+      "id": 10,
+      "text": "water Bottles and More"
+    },
+    {
+      "id": 11,
+      "text": "Gear Care"
+    },
+    {
+      "id": 12,
+      "text": "Used Gear"
+    }
+  ],
+  "kidsData": [
+    {
+      "id": 1,
+      "text": "Shop All"
+    },
+    {
+      "id": 2,
+      "text": "New Arrivals"
+    },
+    {
+      "id": 3,
+      "text": "Swimwear, Boardshorts"
+    },
+    {
+      "id": 4,
+      "text": "Babies and Toddlers"
+    },
+    {
+      "id": 5,
+      "text": "Boys'"
+    },
+    {
+      "id": 6,
+      "text": "Girls'"
+    },
+    {
+      "id": 7,
+      "text": "Used Gear"
+    }
+  ],
+  "collectionData": [
+    {
+      "id": 1,
+      "text": "Patagonia Best Sellers"
+    },
+    {
+      "id": 2,
+      "text": "Baggies"
+    },
+    {
+      "id": 3,
+      "text": "Sun Protection"
+    },
+    {
+      "id": 4,
+      "text": "Cotton Collection"
+    },
+    {
+      "id": 5,
+      "text": "Pataloha"
+    },
+    {
+      "id": 6,
+      "text": "Workwear"
+    }
   ]
 }

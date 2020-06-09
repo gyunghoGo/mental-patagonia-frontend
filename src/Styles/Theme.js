@@ -1,6 +1,9 @@
+import { ThemeProvider } from "styled-components";
+
 const theme = {
-  mainWhite: "#fff",
-  mainBlack: "#000",
-  //   $mainFont: "Roboto", sans-serif;
+  color: {
+    mainWhite: "#fff",
+    mainBlack: "#000",
+  },
 };
 export default theme;
