@@ -1,6 +1,6 @@
 import React from "react";
-import Main from "./Main";
 import styled from "styled-components";
+import Main from "./Main";
 import hero_video from "../../images/video/hero_video.mp4";
 
 const MainVideo = () => {
