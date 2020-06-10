@@ -1,15 +1,13 @@
 import React from "react";
-import { withRouter, Link } from "react-router-dom";
-import styled, { css } from "styled-components";
 import MainVideo from "../Main/MainVideo";
-import MainVideoContent from "./MainVideoContent";
+import SlideCarousel from "../Main/SlideCarousel";
 
 const Main = () => {
   return (
-    <div>
+    <>
       <MainVideo />
-      <MainVideoContent />
-    </div>
+      <SlideCarousel />
+    </>
   );
 };
 

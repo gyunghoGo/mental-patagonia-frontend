@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "category_title": "Men's",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dwde7bf7a8/routing-tile/mens_thumb.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 2,
+      "category_title": "Women's",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw33186623/routing-tile/womens_thumb.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 3,
+      "category_title": "Kids & Baby",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw992d6086/routing-tile/routing_trotter_s_0328_Kids.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 4,
+      "category_title": "Packs & Gear",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dwa22dba6b/routing-tile/pack_and_gear_thumb.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 5,
+      "category_title": "Workwear",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw8be05340/routing-tile/Routing_1x1-Workwear-burr_a_4724.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 6,
+      "category_title": "Real Food",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dwf76a94ee/routing-tile/bissell_e_P_0020_routing_provisions.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 7,
+      "category_title": "Used Gear",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw94a46396/routing-tile/honda_inutomo_0009_routing_wornwear.jpg?q=95&sw=670&"
+    },
+    {
+      "id": 8,
+      "category_title": "Books",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dw4c0d87fb/routing-tile/dickey_j_0534_cc_WEB_ClimbHub_RoutingCarousel_ClimbBooks.jpg?q=95&sw=670&"
+    }
+  ]
+}

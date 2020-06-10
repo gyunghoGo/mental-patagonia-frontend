@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 @font-face {
-    font-family: ""Roboto", sans-serif";
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
   }
   * {
