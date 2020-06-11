@@ -96,6 +96,7 @@ const MenuDiv = styled.div`
   width: 100%;
   position: relative;
   z-index: 999;
+  opacity: 0;
 `;
 const MegaMenuUl = styled.ul`
   display: flex;

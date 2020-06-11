@@ -1,9 +1,213 @@
-import React from "react";
-// import { withRouter, Link } from "react-router-dom";
-// import styled, { css } from "styled-components";
+import React, { useState, useEffect } from "react";
+import styled, { css } from "styled-components";
+import { withRouter, Link } from "react-router-dom";
 
 const SignIn = () => {
-  return <div></div>;
+  // const [token, setToken] = useState([]);
+  const loginWithKakao = () => {
+    window.Kakao.Auth.login({
+      success: (authObj) => {
+        // setToken(authObj.access_token);
+        console.log("success : ", authObj);
+      },
+      fail: function (err) {
+        console.log("에러", err);
+      },
+    });
+  };
+
+  const getCookie = (name) => {
+    const value = "; " + document.cookie;
+    const parts = value.split("; " + name + "=");
+    if (parts.length === 2) return parts.pop().split(";").shift();
+  };
+
+  const getToken = () => {
+    const token = getCookie("authorize-access-token");
+    if (token) {
+      window.Kakao.Auth.setAccessToken(token);
+    }
+  };
+
+  getToken();
+
+  // useEffect(() => {
+  //   fetch("api주소", {
+  //     method: "POST",
+  //     headers: {
+  //       Authorization: token,
+  //     },
+  //   });
+  // }, [token]);
+
+  return (
+    <>
+      {/* <Heaer /> */}
+      <Wrap>
+        <SigninSec>
+          <SigninContent>
+            <Title>Sign In.</Title>
+            <InputWrap>
+              <input type="text" placeholder="Email *" />
+              <input type="password" placeholder="Password *" />
+            </InputWrap>
+            <UnderInput>
+              <RememberWrap>
+                <input type="checkbox" value="Remember me" />
+                <span> Remember me </span>
+              </RememberWrap>
+              <P>Password Help?</P>
+            </UnderInput>
+            <BtnWrap>
+              <Button>Sign In</Button>
+              <Button
+                onClick={loginWithKakao}
+                style={{ "background-color": "#FEE500", color: "black" }}
+              >
+                Sign in with Kakao
+              </Button>
+              <Button style={{ "background-color": "#DF4A32" }}>
+                Sign in with Google
+              </Button>
+            </BtnWrap>
+          </SigninContent>
+        </SigninSec>
+        <FindOrderSec>
+          <OrderContents>
+            <OrderTitle>Looking for your order?</OrderTitle>
+            <OrderDesc>
+              See your order even if you are not a registered user. Enter the
+              order number and your last name.
+            </OrderDesc>
+            <OrderBtn>Find Your Order</OrderBtn>
+          </OrderContents>
+        </FindOrderSec>
+      </Wrap>
+      {/* <Footer /> */}
+    </>
+  );
 };
 
 export default SignIn;
+
+const Wrap = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+`;
+
+const SigninSec = styled.section`
+  width: 50%;
+  height: 100%;
+`;
+
+const SigninContent = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 60%;
+  height: 70%;
+  margin: 10% auto;
+`;
+
+const Title = styled.h1`
+  font-size: 55px;
+  font-weight: 900;
+`;
+
+const InputWrap = styled.div`
+  display: flex;
+  flex-direction: column;
+
+  input {
+    width: 380px;
+    height: 42px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background-color: transparent;
+    border-width: 0 0 2px;
+    border-color: black;
+    outline: none;
+  }
+`;
+
+const UnderInput = styled.div`
+  display: flex;
+  width: 380px;
+  justify-content: space-between;
+  align-items: center;
+`;
+
+const RememberWrap = styled.div``;
+
+const P = styled.div`
+  font-weight: 800;
+  color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+`;
+
+const BtnWrap = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 35%;
+`;
+
+const Button = styled.button`
+  width: 80%;
+  height: 27%;
+  border-radius: 3rem;
+  background-color: black;
+  margin-right: 2rem;
+  color: white;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: 0.2s;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+  &:hover {
+    transform: scale(1.05);
+  }
+`;
+
+const FindOrderSec = styled.section`
+  width: 30%;
+  height: 60%;
+  background-color: black;
+  border-radius: 3%;
+  color: white;
+  margin-top: 6%;
+`;
+
+const OrderContents = styled.div`
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  padding: 15% 0;
+`;
+
+const OrderTitle = styled.h1`
+  font-size: 30px;
+`;
+
+const OrderDesc = styled.p`
+  font-size: 17px;
+  margin: 10% 0;
+  width: 85%;
+  line-height: 2;
+`;
+
+const OrderBtn = styled.button`
+  width: 100%;
+  height: 22%;
+  margin-top: 20%;
+  border-radius: 3rem;
+  border: 0.3rem solid #ffffff;
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 1rem;
+  color: white;
+  transition: 0.2s;
+  &:hover {
+    transform: scale(1.05);
+  }
+`;
