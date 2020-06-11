@@ -254,5 +254,59 @@
       "id": 6,
       "text": "Workwear"
     }
+  ],
+  "ProductsMenCategory": [
+    {
+      "id": 1,
+      "title": "Men's New Arrivals"
+    },
+    {
+      "id": 2,
+      "title": "Men's Jacket and Vests"
+    },
+    {
+      "id": 3,
+      "title": "Men's Fleece"
+    },
+    {
+      "id": 4,
+      "title": "Men's Sweatshirts and Hoodies"
+    },
+    {
+      "id": 5,
+      "title": "Men's Sweaters"
+    },
+    {
+      "id": 6,
+      "title": "Men's Shirts"
+    },
+    {
+      "id": 7,
+      "title": "Men's T-Shirts"
+    },
+    {
+      "id": 8,
+      "title": "Men's Pants and Jeans"
+    },
+    {
+      "id": 9,
+      "title": "Men's Snow and Alpine Pants"
+    },
+    {
+      "id": 10,
+      "title": "Men's Shorts"
+    },
+    {
+      "id": 11,
+      "title": "Men's Boardshorts"
+    },
+    {
+      "id": 12,
+      "title": "Men's Wetsuits"
+    },
+    {
+      "id": 13,
+      "title": "Men's Waders and Boots"
+    }
   ]
 }

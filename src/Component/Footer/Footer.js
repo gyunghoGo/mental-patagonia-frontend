@@ -72,10 +72,10 @@ const Footers = styled.footer`
   position: relative;
   flex-flow: row wrap;
   justify-content: center;
-  padding: 0 5rem 2rem 8rem;
+  padding: 0 3.5rem 5rem 3.5rem;
   background: #000;
   color: #fff;
-  z-index: 100;
+  z-index: 10;
 `;
 
 const FooterInner = styled.div`
@@ -85,11 +85,13 @@ const FooterInner = styled.div`
   justify-content: space-between;
   padding: 3rem 0 0;
   font-weight: 800;
+  margin-top: 3rem;
 `;
 
 const SubscriptUl = styled.ul`
   display: flex;
-  margin: 2rem 3rem 0 1rem;
+  margin: 0 5rem 5rem 0;
+  padding-right: 2rem;
   width: 33%;
 
   li {
@@ -124,10 +126,10 @@ const InputBtnWrap = styled.div`
   }
   button {
     padding: 0.4rem 1.8rem;
+    margin-right: 2rem;
     border-radius: 3rem;
     border: 0.3rem solid #ffffff;
     background-color: transparent;
-    margin-right: 2rem;
     background-color: #ffff;
     font-size: 1rem;
     font-family: Helvetica Neue, Arial, sans-serif;
@@ -142,7 +144,9 @@ const InputBtnWrap = styled.div`
 `;
 
 const NeedHelp = styled.div`
-  margin: 2rem 6rem 0 0;
+  margin: 0 5rem 5rem 0;
+  padding: 0 2rem;
+
   width: 33%;
   span {
     font-size: 1.7rem;
@@ -150,7 +154,7 @@ const NeedHelp = styled.div`
     letter-spacing: 1.1px;
   }
   p {
-    margin-top: 3rem;
+    margin-top: 4rem;
     margin-bottom: 3rem;
     font-weight: 400;
     font-family: Helvetica Neue, Arial, sans-serif;
@@ -183,7 +187,8 @@ const BtnWrap = styled.div`
 
 const MoreInfo = styled.div`
   width: 33%;
-  margin: 2rem 0 0 0;
+  margin: 0 0 5rem 0;
+  padding-left: 3rem;
   span {
     font-size: 1.7rem;
     font-family: Helvetica Neue, Arial, sans-serif;
@@ -222,7 +227,7 @@ const FooterBottomWrap = styled.div`
     color: gray;
   }
   p:last-child {
-    margin-right: 2%;
+    margin-right: 3rem;
   }
 `;
 

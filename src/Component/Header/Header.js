@@ -3,18 +3,17 @@ import React from "react";
 import styled from "styled-components";
 import HeaderTop from "./HeaderTop/HeaderTop";
 import NavHeader from "./NavHeader/NavHeader";
-import HoverHeader from "./HoverHeader/HoverHeader";
+// import HoverHeader from "./HoverHeader/HoverHeader";
 
 const Header = () => {
   return (
-    <Headers>
+    <div>
       <HeaderTop />
       <NavHeader />
-      <HoverHeader />
-    </Headers>
+      {/* <HoverHeader /> */}
+    </div>
   );
 };
 
 export default Header;
 
-const Headers = styled.div``;

@@ -4,7 +4,6 @@ import Main from "./Pages/Main/Main";
 import Products from "./Pages/Products/Products";
 import ProductsDetailPage from "./Pages/Products/ProductsDetailPage/ProductsDetailPage";
 import SignIn from "./Pages/SignIn/SignIn";
-import Header from "./Component/Header/Header";
 
 class Routes extends React.Component {
   render() {
@@ -15,7 +14,6 @@ class Routes extends React.Component {
           <Route exact path="/products" component={Products} />
           <Route exact path="/products/detail" component={ProductsDetailPage} />
           <Route exact path="/signin" component={SignIn} />
-          <Route exact path="/header" component={Header} />
         </Switch>
       </Router>
     );
