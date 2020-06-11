@@ -1,6 +1,6 @@
 import React from "react";
-import { withRouter, Link } from "react-router-dom";
-import styled, { css } from "styled-components";
+// import { withRouter, Link } from "react-router-dom";
+// import styled, { css } from "styled-components";
 
 const ProductsDetailPage = () => {
   return <div></div>;
