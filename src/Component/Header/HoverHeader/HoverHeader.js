@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
-const HoverHeader = () => {
+const HoverHeader = (props) => {
   const [List, setList] = useState([]);
 
   useEffect(() => {
@@ -15,10 +15,9 @@ const HoverHeader = () => {
     setList(list);
   };
 
-  // const [view] = useState(0);
 
   return (
-    <MenuDiv>
+    <MenuDiv isActive={props.isActive}>
       <MegaMenuUl>
         <MenuLi>
           <Anchor href="/shop/womens">
@@ -94,14 +93,17 @@ export default HoverHeader;
 
 const MenuDiv = styled.div`
   width: 100%;
-  position: relative;
+  position: absolute;
   z-index: 999;
-  opacity: 0;
+  display: flex;
+  visibility: ${(props)=>(props.isActive ? "hidden" : "visible")};
+  opacity: ${(props) => (props.isActive ? 0 : 1)};
+  transition: all ease-in-out 0.2s;
 `;
 const MegaMenuUl = styled.ul`
   display: flex;
   position: absolute;
-  top: 9.73333rem;
+  top: 0;
   left: 0;
   width: 100%;
   min-height: 40rem;
@@ -109,6 +111,7 @@ const MegaMenuUl = styled.ul`
   flex-direction: row;
   align-items: flex-start;
   background-color: #000;
+  z-index: 100;
 `;
 
 const MenuLi = styled.li`
@@ -123,6 +126,8 @@ const Anchor = styled.a`
   font-size: 1.4rem;
   letter-spacing: 0;
   line-height: 2rem;
+  display: flex;
+  text-align: left;
   span {
     color: White;
     font-size: 0.9rem;
@@ -138,6 +143,7 @@ const Anchor = styled.a`
 const CategoryDetailUl = styled.ul`
   transition-delay: 0.1s;
   font-family: Helvetica Neue, Arial, sans-serif;
+  
 `;
 const DetailLi = styled.li`
   margin-bottom: 0.1rem;

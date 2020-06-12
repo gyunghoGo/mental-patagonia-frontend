@@ -1,14 +1,24 @@
-import React from "react";
+import React, { useState, useEffect, useCallback } from "react";
 // import { withRouter, Link } from "react-router-dom";
 import styled from "styled-components";
-// import HoverHeader from "../HoverHeader/HoverHeader";
+import HoverHeader from "../HoverHeader/HoverHeader";
 
-const NavHeader = (view) => {
+const NavHeader = () => {
+  const [menuState, setMenuState] = useState(true);
+
+  const showMenu = () => {
+    setMenuState(false);
+  };
+
+  const hideMenu = () => {
+    setMenuState(true);
+  };
+
   return (
     <div>
       <Navigation>
         <NavigationWrap>
-          <MainLogoWrap>
+          <MainLogoWrap onMouseEnter={hideMenu}>
             <MainLogo
               viewBox="0 0 122.1 22.7"
               aria-labelledby="icon--logo-desc icon--logo-title"
@@ -24,18 +34,18 @@ const NavHeader = (view) => {
               <path d="M74.2 4c-4.4 0-7.8 2.7-7.8 7 0 4.4 3.4 7 7.8 7s7.9-2.7 7.9-7-3.4-7-7.9-7zm.9 12c-2.8 0-3.6-4.9-3.6-6.9 0-1 0-3 1.9-3C76.2 6.1 77 11 77 13c0 1.4-.4 3-1.9 3z"></path>
             </MainLogo>
           </MainLogoWrap>
-          <ContentUlWrap>
+          <ContentUlWrap onMouseEnter={hideMenu}>
             <ContentLi>
-              <ContentSpan>Shop</ContentSpan>
+              <span onMouseEnter={showMenu}>Shop</span>
             </ContentLi>
             <ContentLi>
-              <ContentSpan>Activim</ContentSpan>
+              <span onMouseEnter={hideMenu}>Activim</span>
+            </ContentLi >
+            <ContentLi >
+              <span onMouseEnter={hideMenu}>Sports</span>
             </ContentLi>
-            <ContentLi>
-              <ContentSpan>Sports</ContentSpan>
-            </ContentLi>
-            <ContentLi>
-              <ContentSpan>Stories</ContentSpan>
+            <ContentLi >
+              <span onMouseEnter={hideMenu}>Stories</span>
             </ContentLi>
           </ContentUlWrap>
           <SearchWrap>
@@ -92,6 +102,7 @@ const NavHeader = (view) => {
             </Hamburger>
           </HamburgerWrap>
         </NavigationWrap>
+        <HoverHeader isActive={menuState} onMouseLeave={showMenu}/>
       </Navigation>
     </div>
   );
@@ -142,21 +153,32 @@ const ContentUlWrap = styled.ul`
   flex: 1 0 auto;
   justify-content: center;
   align-items: center;
-  z-index: 2;
+  flex-flow: row;
+  z-index: 5;
 `;
 
 const ContentLi = styled.li`
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100%;
   cursor: pointer;
-`;
-
-const ContentSpan = styled.span`
-  font-size: 0.9rem;
-  letter-spacing: -0.016rem;
-  line-height: 1.33333;
-  font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 0 2.7rem;
-  height: 100%;
+  span {
+    display:flex;
+    align-items:center;
+    font-size: 0.9rem;
+    letter-spacing: -0.016rem;
+    line-height: 1.33333;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 2.7rem;
+    height: 100%;
+   &:hover{
+    text-decoration:underline;
+   }
+  }
+  
 `;
 
 const Search = styled.svg`

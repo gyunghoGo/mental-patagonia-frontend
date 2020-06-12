@@ -7,7 +7,7 @@ const HeaderTop = () => {
     <Drawers>
       <DrawersBar>
         <span>Free ground shipping on all others</span>
-        <span>COVID-19 update</span>
+        {/* <span>COVID-19 update</span> */}
       </DrawersBar>
       <LoginBtn>Login</LoginBtn>
     </Drawers>
@@ -34,6 +34,7 @@ const DrawersBar = styled.div`
   font-size: 0.889rem;
   span {
     color: white;
+    transition: all opacity 0.2s;
   }
 `;
 
