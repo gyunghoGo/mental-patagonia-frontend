@@ -1,5 +1,5 @@
 import React from "react";
-// import { withRouter, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 const HeaderTop = () => {
@@ -9,7 +9,7 @@ const HeaderTop = () => {
         <span>Free ground shipping on all others</span>
         {/* <span>COVID-19 update</span> */}
       </DrawersBar>
-      <LoginBtn>Login</LoginBtn>
+      <LoginBtn><Link to="/Signin"><button>Login</button></Link></LoginBtn>
     </Drawers>
   );
 };
@@ -39,20 +39,27 @@ const DrawersBar = styled.div`
 `;
 
 const LoginBtn = styled.div`
-  color: white;
   cursor: pointer;
   position: absolute;
+  width:2%;
   top: 0%;
   right: 0;
   z-index: 100;
+  padding-top: 0.2%;
+  margin-right:4%;
+ 
+ 
+  button{
   font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-size: 0.8rem;
   line-height: 3;
-  padding-right: 5%;
-  padding-top: 0.2%;
+  color:white;
+  outline:none;
+  background-color: #000;
   &:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  }
   }
 `;
 export default HeaderTop;

@@ -29,13 +29,19 @@ filter_alt
 
 const VideoWrap = styled.div `
 position:relative;
-
 z-index:-5;
-background-size:cover;
+width:100%;
+height:70vh;
+transform:scale(1);
 overflow:hidden;
+object-fit:cover;
 video{
-    width:100%;
+position:absolute;
+width:100%;
 height:100%;
+top:0;
+left:0;
+object-fit:cover;
 }
 `;
 
@@ -67,13 +73,13 @@ justify-content:center;
 button{
     cursor: pointer;
     border: 0.1333rem solid #fff;
-    padding: 0.8rem 5rem;
+    padding: 1rem 5rem;
     border-radius:3rem;
     background-color:#fff;
     transition: 0.2s;
-    margin-top:5%;
+    margin-top:3%;
     &:hover{
-    transform: scale()(1.05);
+    transform: scale(1.05);
     }
     span{
         font-family: Arial, Helvetica, sans-serif;
