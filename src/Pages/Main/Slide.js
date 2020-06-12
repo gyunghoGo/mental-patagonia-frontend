@@ -2,7 +2,6 @@ import React from "react";
 import styled, { css } from "styled-components";
 
 const Slide = (props) => {
-  console.log(props);
   return props.data.map((data) => {
     return (
       <SlideContent>
