@@ -6,10 +6,10 @@ import NavHeader from "./NavHeader/NavHeader";
 
 const Header = () => {
   return (
-    <div>
+    <>
       <HeaderTop />
       <NavHeader />
-    </div>
+    </>
   );
 };
 

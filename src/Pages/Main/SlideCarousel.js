@@ -86,11 +86,14 @@ const Button = styled.button`
   height: 60px;
   font-size: 20px;
   color: black;
+  background-color:#fff;
   border-radius: 50%;
   z-index: 9;
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+  opacity:0.5;
   &:hover {
     transition: all 0.4s ease-in-out;
-    transform: scale(1.1);
+    transform: scale(1.05);
+    opacity:1;
   }
 `;

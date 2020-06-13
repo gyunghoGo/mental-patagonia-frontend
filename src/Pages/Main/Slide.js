@@ -17,9 +17,11 @@ export default Slide;
 const SlideContent = styled.div`
   position: relative;
   margin: 0 1%;
+  transition: all 0.2s ease-in-out;
   &:hover {
     transform: scale(1.05);
-    transition: all 0.1s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 1px 10px 10px #dddddd;
   }
 `;
 

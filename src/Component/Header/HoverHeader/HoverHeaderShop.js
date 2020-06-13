@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
-const HoverHeader = (props) => {
+const HoverHeaderShop = (props) => {
   const [List, setList] = useState([]);
 
   useEffect(() => {
@@ -10,7 +10,7 @@ const HoverHeader = (props) => {
   }, []);
 
   const loadList = async () => {
-    const res = await fetch("http://localhost:3000/data/data.json");
+    const res = await fetch("/data/mainShopData.json");
     const list = await res.json();
     setList(list);
   };
@@ -20,7 +20,7 @@ const HoverHeader = (props) => {
     <MenuDiv isActive={props.isActive}>
       <MegaMenuUl>
         <MenuLi>
-          <Anchor href="/shop/womens">
+          <Anchor href="/products">
             <span>Women's</span>
           </Anchor>
           <CategoryDetailUl>
@@ -33,20 +33,20 @@ const HoverHeader = (props) => {
           </CategoryDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/shop/men">
+          <Anchor href="/products">
             <span>Men's</span>
           </Anchor>
           <CategoryMenDetailUl>
             {List.menData &&
               List.menData.map((re, id) => (
-                <Link to={"/"} key={id}>
+                <Link to={"/products/details"} key={id}>
                   <MenDetailLi href="/">{re.text}</MenDetailLi>
                 </Link>
               ))}
           </CategoryMenDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/shop/womens">
+          <Anchor href="/products">
             <span>Packs and Gear</span>
           </Anchor>
           <CategoryDetailUl>
@@ -59,7 +59,7 @@ const HoverHeader = (props) => {
           </CategoryDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/shop/womens">
+          <Anchor href="/products">
             <span>Kids' and Baby</span>
           </Anchor>
           <CategoryDetailUl>
@@ -72,7 +72,7 @@ const HoverHeader = (props) => {
           </CategoryDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/shop/womens">
+          <Anchor href="/products">
             <span>Collections</span>
           </Anchor>
           <CategoryDetailUl>
@@ -89,7 +89,7 @@ const HoverHeader = (props) => {
   );
 };
 
-export default HoverHeader;
+export default HoverHeaderShop;
 
 const MenuDiv = styled.div`
   width: 100%;
@@ -121,7 +121,6 @@ const MenuLi = styled.li`
 
 const Anchor = styled.a`
   padding: 0;
-  color: #000;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.4rem;
   letter-spacing: 0;
@@ -142,11 +141,10 @@ const Anchor = styled.a`
 
 const CategoryDetailUl = styled.ul`
   transition-delay: 0.1s;
-  font-family: Helvetica Neue, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   
 `;
 const DetailLi = styled.li`
-  margin-bottom: 0.1rem;
   color: #fff;
   font-size: 0.85rem;
   letter-spacing: 0;
