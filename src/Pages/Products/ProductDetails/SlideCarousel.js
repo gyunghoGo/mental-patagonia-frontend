@@ -1,41 +1,83 @@
 import React, { useState, useEffect } from "react";
 import styled, { css } from "styled-components";
-import Thumbnail from "./Thumbnail";
 
-const SlideCarousel = () => {
-  const [optionData, setOptionData] = useState([]);
-  const [ currentIdx, setCurrentIdx ] = useState(0);
+const SlideCarousel = (props) => {
 
-  useEffect(() => {
-    fetch("/data/data.json")
-      .then((res) => res.json())
-      .then((res) => setOptionData(res.option));
-  }, []);
+  const data = props.data;
+  const [slideImages, setSlideImages] = useState([]);
+  // const [ currentIdx, setCurrentIdx ] = useState(0);
+  const [currentSlide, setCurrentSlide] = useState(0);
+  const [positionX, setPositionX] = useState(-200);
+  const [filteredProducts, setFilteredProducts] = useState([]);
 
+  useEffect(()=>{
+    if (data !== undefined){
+      setSlideImages(data.images);
+    } 
+  })
 
-  const TOTAL_SLIDES = optionData.length;
-
-  const prevSlide = () => {
-    const resetToBack = currentIdx === 0;
-    const index = resetToBack ? TOTAL_SLIDES - 1 : currentIdx - 1;
-    setCurrentIdx(index);
-  }
 
   const nextSlide = () => {
-    const resetIndex = currentIdx === TOTAL_SLIDES - 1;
-    const index = resetIndex ? 0 : currentIdx + 1;
-    setCurrentIdx(index);
+    let TOTAL_SLIDES = slideImages.length;
+    if (currentSlide >= TOTAL_SLIDES - 2) {
+      return;
+    } else {
+      setCurrentSlide(currentSlide + 1);
+      setPositionX(positionX - 450);
+    }
+  };
+
+  const prevSlide = () => {
+    if (currentSlide === 0) {
+      return;
+    } else {
+      setCurrentSlide(currentSlide - 1);
+      setPositionX(positionX + 450);
+    }
+  };
+
+
+  const handleColorClick = (id) => {
+    const filtered =  data.filter((option) => option.id ===  id);
+    setFilteredProducts( 
+      filtered
+    )
   }
 
-  const activeImageSourcesFromState = optionData.slice(currentIdx, currentIdx + 3);
-  const imageSourcesToDisplay = activeImageSourcesFromState.length < 3 
-  ? [...activeImageSourcesFromState, ...optionData.slice(0, 3 - activeImageSourcesFromState.length )] 
-  : activeImageSourcesFromState ;
+//   const slideFunction = () => {
+//     if(slideImages !== undefined){
+//     const TOTAL_SLIDES = slideImages.length;
 
+//     const prevSlide = () => {
+//       const resetToBack = currentIdx === 0;
+//       const index = resetToBack ? TOTAL_SLIDES - 1 : currentIdx - 1;
+//       setCurrentIdx(index);
+//     }
+
+//     const nextSlide = () => {
+//       const resetIndex = currentIdx === TOTAL_SLIDES - 1;
+//       const index = resetIndex ? 0 : currentIdx + 1;
+//       setCurrentIdx(index);
+//     }
+
+//     const activeImageSourcesFromState = slideImages.slice(currentIdx, currentIdx + 3);
+//     const imageSourcesToDisplay = activeImageSourcesFromState.length < 3 
+//     ? [...activeImageSourcesFromState, ...slideImages.slice(0, 3 - activeImageSourcesFromState.length )] 
+//     : activeImageSourcesFromState ;
+//     }
+    
+    
+// }
+
+// slideFunction();
+   
   return (
     <Container>
-      <ProductSlideContainer>
-        {imageSourcesToDisplay.map((el, index) => 
+      <ProductSlideContainer style={{
+          transform: `translateX(${positionX}px)`,
+          transition: "all 0.2s ease-in-out",
+        }}>
+        {slideImages !==undefined && slideImages.map((el, index) => 
         <IMG key={index} src={el.image_url} alt="product" />)
          }
       </ProductSlideContainer>
@@ -47,13 +89,6 @@ const SlideCarousel = () => {
           <i class="fas fa-chevron-right"></i>
         </ArrowBtn>
       </BtnWrap>
-      <CodePrice>
-        <p>Fire (FRE)</p>
-        <p>$149</p>
-      </CodePrice>
-      <ThumbnailsWrap>
-        <Thumbnail thumbnail={optionData} />
-      </ThumbnailsWrap>
     </Container>
   );
 };
@@ -73,8 +108,8 @@ const ProductSlideContainer = styled.div`
 `;
 
 const IMG = styled.img`
-  width: 50%;
-  height: 60%;
+  width: 60%;
+  height: 50%;
 `;
 
 
@@ -84,7 +119,7 @@ const BtnWrap = styled.div`
   position: absolute;
   display: flex;
   justify-content: space-between;
-  top: 30%;
+  top: 45%;
 `;
 
 const ArrowBtn = styled.button`
@@ -101,19 +136,3 @@ const ArrowBtn = styled.button`
   }
 `;
 
-const CodePrice = styled.div`
-  display: flex;
-  justify-content: space-around;
-  width: 15%;
-  margin: 0 auto;
-  font-size: 22px;
-  font-weight: 800;
-  padding: 3% 0;
-`;
-
-const ThumbnailsWrap = styled.div`
-  width: 50%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-`;

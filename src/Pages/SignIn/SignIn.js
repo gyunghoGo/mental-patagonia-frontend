@@ -1,33 +1,40 @@
 import React, { useState, useEffect } from "react";
 import styled, { css } from "styled-components";
 import { withRouter, Link } from "react-router-dom";
+import Header from "../../Component/Header/Header";
 
-const SignIn = () => {
-  // const [token, setToken] = useState([]);
+const SignIn = ({ history }) => {
+
+  const goToMain = () => {
+    history.push('/products');
+  }
+
   const loginWithKakao = () => {
     window.Kakao.Auth.login({
       success: (authObj) => {
         console.log("success : ", authObj);
+        fetch('http://10.58.0.221:8000/member/kakao', {
+      headers: {
+        "Authorization": authObj.access_token
+      },
+       }).then(res => res.json())
+       .then(res => {if(res.message === 'SUCCESS'){
+         localStorage.setItem("patago_token", res.token);
+         alert('Successfully Signed in!')
+         goToMain();
+       }
+       }) 
       },
       fail: function (err) {
         console.log("에러", err);
       },
-    });
+    })
   };
 
 
-  // useEffect(() => {
-  //   fetch("api주소", {
-  //     method: "POST",
-  //     headers: {
-  //       Authorization: token,
-  //     },
-  //   });
-  // }, [token]);
-
   return (
     <>
-      {/* <Heaer /> */}
+      <Header />
       <Wrap>
         <SigninSec>
           <SigninContent>
@@ -73,7 +80,7 @@ const SignIn = () => {
   );
 };
 
-export default SignIn;
+export default withRouter(SignIn);
 
 const Wrap = styled.div`
   width: 100vw;
@@ -85,6 +92,7 @@ const Wrap = styled.div`
 const SigninSec = styled.section`
   width: 50%;
   height: 100%;
+  margin-top: 8%;
 `;
 
 const SigninContent = styled.div`
@@ -161,7 +169,8 @@ const FindOrderSec = styled.section`
   background-color: black;
   border-radius: 3%;
   color: white;
-  margin-top: 6%;
+  margin-top: 13%;
+
 `;
 
 const OrderContents = styled.div`

@@ -4,6 +4,7 @@ import Main from "./Pages/Main/Main";
 import Products from "./Pages/Products/Products";
 import ProductDetails from "./Pages/Products/ProductDetails/ProductsDetails";
 import SignIn from "./Pages/SignIn/SignIn";
+import CartMain from "./Pages/Cart/CartMain";
 import Modal from "./Pages/Products/ProductDetails/Modal/Modal";
 import HeaderFilterTop from "./Component/Header/HeaderTop/HeaderFilterTop";
 import App from "./Component/Scroll/App"
@@ -16,12 +17,12 @@ class Routes extends React.Component {
         <Switch>
           <Route exact path="/" component={Main} />
           <Route exact path="/products" component={Products} />
-          <Route exact path="/products/details" component={ProductDetails} />
+          <Route exact path="/products/details/:key" component={ProductDetails} />
+          <Route exact path="/cart" component={CartMain} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/modal" component={Modal} />
           <Route exact path="/filtertop" component={HeaderFilterTop} />
           <Route exact path="/app" component={App} />
-
         </Switch>
       </Router>
     );
