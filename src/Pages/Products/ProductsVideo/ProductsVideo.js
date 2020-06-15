@@ -9,13 +9,11 @@ const ProductsVideo =() =>{
         <source src = {productsMainTop} type ="video/mp4" />
     </video>
     <ContentWrap>
-        <div>
+        <Content>
         <h1>Men's</h1>
-        <button><span>Filter</span></button>
-        </div>
+        <button>Filter</button>
+        </Content>
     </ContentWrap>
-    
-
     </VideoWrap>
     );
     };
@@ -55,38 +53,39 @@ display:flex;
 justify-content:center;
 z-index:5;
 padding: 10rem 0 ;
-div{
+`;
+
+const Content = styled.div`
     width:100%;
     text-align:center;
     position:relative;
     padding: 0 4rem;
     margin-top:8rem;
+
     h1{
-    color:white;
-font-family: Arial, Helvetica, sans-serif;
-font-size:4rem;
-font-weight:900;
-display:flex;
-align-items:center;
-justify-content:center;
-}
-button{
-    cursor: pointer;
-    border: 0.1333rem solid #fff;
-    padding: 1rem 5rem;
-    border-radius:3rem;
-    background-color:#fff;
-    transition: 0.2s;
-    margin-top:3%;
-    &:hover{
-    transform: scale(1.05);
-    }
-    span{
+        color:white;
         font-family: Arial, Helvetica, sans-serif;
-    font-size:1rem;
-    font-weight:700;
+        font-size:4rem;
+        font-weight:900;
+        display:flex;
+        align-items:center; 
+        justify-content:center;
     }
-}
+    button{
+        cursor: pointer;
+        border: 0.1333rem solid #fff;
+        padding: 1rem 5rem;
+        border-radius:3rem;
+        background-color:#fff;
+        transition: 0.2s;
+        margin-top:3%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:1rem;
+        font-weight:700;
+        &:hover{
+          transform: scale(1.05);
+        }
 }
 `;
+
 

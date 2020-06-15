@@ -6,6 +6,7 @@ import ProductDetails from "./Pages/Products/ProductDetails/ProductsDetails";
 import SignIn from "./Pages/SignIn/SignIn";
 import Modal from "./Pages/Products/ProductDetails/Modal/Modal";
 
+
 class Routes extends React.Component {
   render() {
     return (
@@ -16,7 +17,6 @@ class Routes extends React.Component {
           <Route exact path="/products/details" component={ProductDetails} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/modal" component={Modal} />
-
         </Switch>
       </Router>
     );

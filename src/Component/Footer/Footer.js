@@ -9,7 +9,7 @@ const Footer = () => {
         <SubscriptUl>
           <li>
             <Content>
-              <span>Subscript</span>
+              <span>Subscribe</span>
               <p>
                 Sign up for exclusive offers, original stories, activism
                 awareness, events and more.

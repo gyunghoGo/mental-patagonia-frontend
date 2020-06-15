@@ -1,24 +1,25 @@
-import React, { useState, useEffect, useCallback } from "react";
-// import { withRouter, Link } from "react-router-dom";
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
-import HoverHeader from "../HoverHeader/HoverHeader";
+import HoverHeaderShop from "../HoverHeader/HoverHeaderShop";
 
 const NavHeader = () => {
-  const [menuState, setMenuState] = useState(true);
+  const [menuShopState, setmenuShopState] = useState(true);
 
-  const showMenu = () => {
-    setMenuState(false);
+  const showShopMenu = () => {
+    setmenuShopState(false);
+  };
+  const hideShopMenu = () => {
+    setmenuShopState(true);
   };
 
-  const hideMenu = () => {
-    setMenuState(true);
-  };
 
   return (
     <div>
       <Navigation>
         <NavigationWrap>
-          <MainLogoWrap onMouseEnter={hideMenu}>
+          <MainLogoWrap onMouseEnter={hideShopMenu}>
+            <Link to="/" >
             <MainLogo
               viewBox="0 0 122.1 22.7"
               aria-labelledby="icon--logo-desc icon--logo-title"
@@ -33,19 +34,20 @@ const NavHeader = () => {
               <path d="M121.2 2.6c0-.2-.1-.4-.3-.5-.1 0-.3-.1-.5-.1h-.7v2h.3v-.8h.3c.2 0 .3 0 .4.1.1.1.2.2.2.4V4h.3v-.4c0-.1 0-.2-.1-.3-.1-.1-.2-.2-.3-.2.1 0 .2 0 .3-.1 0-.1.1-.2.1-.4zm-.6.3h-.6v-.6h.3c.2 0 .3 0 .4.1.1 0 .1.1.1.3 0 .1 0 .2-.2.2zm-14.8 13.3c0-.2-.1-.1-.1-.1h-.7c-.2 0-.1-.1-.1-.1V4.2c0-.2-.1-.1-.1-.1L99 5.7s-.1 0-.1.1v1.3c0 .2.2.1.2.1s.4-.1.7-.1c.2 0 .1.1.1.2v8.6s0 .1-.1.1H99s-.1 0-.1.1v1.4c0 .2.1.1.1.1h6.8c.2 0 .1-.1.1-.1v-1.3zm-8-.1H97c-.1 0-.1-.1-.1-.1V8c0-1.5-.5-3.8-4-3.8-1.9 0-3.2 1-4.6 2.1 0 0-.1.2-.1 0V4.2c-.1-.2-.2-.1-.2-.1l-5.9 1.6s-.1 0-.1.1v1.4c0 .1.1.1.1.1s.5-.1.7-.2c.3-.1.2 0 .2 0v8.8s0 .1-.1.1h-.8s-.1-.1-.1.1v1.4c0 .2.1.1.1.1H89s.1 0 .1-.1v-1.4c.1-.1-.1-.1-.1-.1h-.8c-.1 0-.1-.1-.1-.1V8.5c0-.1.1-.2.1-.2.6-.5 1.3-1 2.2-1 .7 0 1.5.4 1.5 1.2V16s0 .1-.1.1H91s-.1 0-.1.1v1.4c0 .1.1.1.1.1h6.8s.1 0 .2-.1v-1.4c-.1-.2-.2-.1-.2-.1zM65.9 9.4c0-3.2-2.6-4-2.6-4.5 0-.3.2-.6.5-.6.6 0 .6 0 .9.2 0 0 .1.1.1 0s.5-2.1.5-2.2c.1-.3-.1-.3-.1-.3h-.9c-1.5 0-2 .4-2.3 1.4 0 0-.2.7-.3.9 0 .2-.2.1-.2.1-.7-.1-1.5-.4-2.9-.4-3 0-6.2 1.7-6.2 5.5 0 2.7 2.2 4.3 4.6 4.7 0 0 .4 0 0 .2-.7.2-2.1 1.1-3.8 1.3 0 0-.2 0-.1.2 0 .1.5 1.3.6 1.4 0 .1.2.1.2.1.8-.2 3 0 3.4.1.3 0 0 .1 0 .1-1.1.2-2.5 1-2.5 2.3 0 2.2 2.5 2.7 4.9 2.7 1.7 0 5.7-.7 5.7-3.6 0-2.9-4.5-3.5-6.8-3.7-.4 0 0-.1 0-.1 3.4-.8 7.3-1.7 7.3-5.8zm-6.8 8.9c.1-.1.2-.1.2-.1.9.5 1.6 1 1.6 2.2 0 .7-.4 1-1.1 1-.8 0-1.1-.7-1.1-1.4 0-.6.2-1.5.4-1.7zM57 7.5c0-1.3.4-1.8 1.4-1.8 2.1 0 2.9 4.1 2.9 5.5 0 1.3-.4 1.8-1.4 1.8-2.1.1-2.9-4-2.9-5.5z"></path>
               <path d="M74.2 4c-4.4 0-7.8 2.7-7.8 7 0 4.4 3.4 7 7.8 7s7.9-2.7 7.9-7-3.4-7-7.9-7zm.9 12c-2.8 0-3.6-4.9-3.6-6.9 0-1 0-3 1.9-3C76.2 6.1 77 11 77 13c0 1.4-.4 3-1.9 3z"></path>
             </MainLogo>
+            </Link>
           </MainLogoWrap>
-          <ContentUlWrap onMouseEnter={hideMenu}>
+          <ContentUlWrap onMouseEnter={hideShopMenu}>
             <ContentLi>
-              <span onMouseEnter={showMenu}>Shop</span>
+              <span onMouseEnter={showShopMenu}>Shop</span>
             </ContentLi>
             <ContentLi>
-              <span onMouseEnter={hideMenu}>Activim</span>
+              <span onMouseEnter={hideShopMenu}>Activism</span>
             </ContentLi >
             <ContentLi >
-              <span onMouseEnter={hideMenu}>Sports</span>
+              <span onMouseEnter={hideShopMenu}>Sports</span>
             </ContentLi>
             <ContentLi >
-              <span onMouseEnter={hideMenu}>Stories</span>
+              <span onMouseEnter={hideShopMenu}>Stories</span>
             </ContentLi>
           </ContentUlWrap>
           <SearchWrap>
@@ -102,7 +104,7 @@ const NavHeader = () => {
             </Hamburger>
           </HamburgerWrap>
         </NavigationWrap>
-        <HoverHeader isActive={menuState} onMouseLeave={showMenu}/>
+        <HoverHeaderShop isActive={menuShopState} onMouseLeave={showShopMenu}/>
       </Navigation>
     </div>
   );
@@ -111,36 +113,36 @@ const NavHeader = () => {
 export default NavHeader;
 
 const Navigation = styled.nav`
-  width: 100vw;
-  height: auto;
-  position: absolute;
-  top: 2.9rem;
-  z-index: 100;
-  color: #fff;
-  fill: #fff;
+width: 100vw;
+height: auto;
+position: absolute;
+top: 2.9rem;
+z-index: 100;
+color: #fff;
+fill: #fff;
+transition: all ease-in-out 0.35s;
+&:hover {
   transition: all ease-in-out 0.35s;
-  &:hover {
-    transition: all ease-in-out 0.35s;
-    background-color: #fff;
-    color: #000;
-    fill: #000;
-  }
+  background-color: #fff;
+  color: #000;
+  fill: #000;
+}
 `;
 
 const NavigationWrap = styled.div`
-  width: 100%;
-  height: 6.8rem;
-  display: flex;
-  position: relative;
-  padding: 0 4rem;
-  align-items: center;
-  justify-content: space-between;
-  z-index: 10;
+width: 100%;
+height: 6.8rem;
+display: flex;
+position: relative;
+padding: 0 4rem;
+align-items: center;
+justify-content: space-between;
+z-index: 10;
 `;
 
 const MainLogo = styled.svg`
-  padding-left: 2%;
-  /* fill: white; */
+padding-left: 2%;
+/* fill: white; */
 `;
 
 const MainLogoWrap = styled.div`

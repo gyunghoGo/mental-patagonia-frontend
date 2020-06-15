@@ -1,0 +1,94 @@
+{
+  "snow": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop"
+    },
+    {
+      "id": 4,
+      "title": "Women's"
+    }
+  ],
+  "surfing": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop"
+    },
+    {
+      "id": 4,
+      "title": "Women's"
+    }
+  ],
+  "mountain": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop Women's"
+    }
+  ],
+  "trail": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop Women's"
+    }
+  ],
+  "fly": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop Women's"
+    }
+  ],
+  "kitesurfing": [
+    {
+      "id": 1,
+      "title": "Communuty"
+    },
+    {
+      "id": 2,
+      "title": "Shop Men's"
+    },
+    {
+      "id": 3,
+      "title": "Shop Women's"
+    }
+  ]
+}
