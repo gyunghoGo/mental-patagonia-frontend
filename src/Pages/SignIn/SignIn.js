@@ -7,7 +7,6 @@ const SignIn = () => {
   const loginWithKakao = () => {
     window.Kakao.Auth.login({
       success: (authObj) => {
-        // setToken(authObj.access_token);
         console.log("success : ", authObj);
       },
       fail: function (err) {
@@ -16,20 +15,6 @@ const SignIn = () => {
     });
   };
 
-  const getCookie = (name) => {
-    const value = "; " + document.cookie;
-    const parts = value.split("; " + name + "=");
-    if (parts.length === 2) return parts.pop().split(";").shift();
-  };
-
-  const getToken = () => {
-    const token = getCookie("authorize-access-token");
-    if (token) {
-      window.Kakao.Auth.setAccessToken(token);
-    }
-  };
-
-  getToken();
 
   // useEffect(() => {
   //   fetch("api주소", {
@@ -62,11 +47,11 @@ const SignIn = () => {
               <Button>Sign In</Button>
               <Button
                 onClick={loginWithKakao}
-                style={{ "background-color": "#FEE500", color: "black" }}
+                style={{ "backgroundColor": "#FEE500", color: "black" }}
               >
                 Sign in with Kakao
               </Button>
-              <Button style={{ "background-color": "#DF4A32" }}>
+              <Button style={{ "backgroundColor": "#DF4A32" }}>
                 Sign in with Google
               </Button>
             </BtnWrap>
@@ -92,6 +77,7 @@ export default SignIn;
 
 const Wrap = styled.div`
   width: 100vw;
+  min-width: 1200px;
   height: 100vh;
   display: flex;
 `;

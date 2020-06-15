@@ -255,6 +255,7 @@
       "text": "Workwear"
     }
   ],
+
   "ProductsMenCategory": [
     {
       "id": 1,
@@ -307,6 +308,42 @@
     {
       "id": 13,
       "title": "Men's Waders and Boots"
+    }
+  ],
+
+  "option": [
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw8b8c4008%2Fimages%2Fhi-res%2F85240_SPYG.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdd5a11fc%2Fimages%2Fhi-res%2F85240_ANDB.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb66e4f47%2Fimages%2Fhi-res%2F85240_MAN.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0a48ff68%2Fimages%2Fhi-res%2F85240_FGE.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4763b99c%2Fimages%2Fhi-res%2F85240_FRE.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw81c36043%2Fimages%2Fhi-res%2F85240_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+    }
+  ],
+
+  "product_details": [
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7d8377a1%2Fimages%2Fhi-res%2F85240_MAN_JB1.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=1300&sh=1300&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw49e5bf3c%2Fimages%2Fhi-res%2F85240_MAN_JB2.png%3Fsw%3D1300%26sh%3D1300%26q%3D75&sfrm=png&q=75"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0e87366c%2Fimages%2Fhi-res%2F85240_ANDB_TMPIT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+    },
+    {
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2e059208%2Fimages%2Fhi-res%2F85240_ANDB_TMDWR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
     }
   ]
 }
