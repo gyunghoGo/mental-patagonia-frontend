@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 import HoverHeaderShop from "../HoverHeader/HoverHeaderShop";
-import {WIDTH800} from "../../../Config"
-import {WIDTH375} from "../../../Config"
 
 const NavHeader = () => {
   const [menuShopState, setmenuShopState] = useState(true);
@@ -119,17 +117,9 @@ const Navigation = styled.nav`
   position: absolute;
   top: 2.9rem;
   z-index: 100;
-  color: #fff;
-  fill: #fff;
-  transition: all ease-in-out 0.35s;
-  @media only screen and (min-width:${WIDTH800}){
-    &:hover {
-      transition: all ease-in-out 0.35s;
-      background-color: #fff;
-      color: #000;
-      fill: #000;
-    } 
-  }
+  color: #000;
+  fill: #000;
+  background-color:#fff;
 `;
 
 const NavigationWrap = styled.div`
@@ -141,7 +131,7 @@ const NavigationWrap = styled.div`
   align-items: center;
   justify-content: space-between;
   z-index: 10;
-  @media only screen and (max-width:${WIDTH800}){
+  @media only screen and (max-width:800px){
     padding:0 2.3rem;
 }
 `;
@@ -152,7 +142,7 @@ const MainLogoWrap = styled.div`
 
 const MainLogo = styled.svg`
   padding-left: 2%;
-  @media only screen and (max-width:${WIDTH800}){
+  @media only screen and (max-width:800px){
     fill:#fff;
     
   }
@@ -169,7 +159,7 @@ const ContentUlWrap = styled.ul`
   align-items: center;
   flex-flow: row;
   z-index: 5;
-  @media only screen and (max-width:${WIDTH800}){
+  @media only screen and (max-width:800px){
     display:none;
   }
 `;
@@ -216,7 +206,7 @@ const Hamburger = styled.svg`
 `;
 const SearchWrap = styled.div`
   cursor: pointer;
-  @media only screen and (max-width:${WIDTH800}){
+  @media only screen and (max-width:800px){
     position:absolute;
     flex:none;
     right:5rem;
@@ -229,7 +219,7 @@ const HamburgerWrap = styled.div`
 const CartWrap = styled.div`
   margin-left: 0.7%;
   cursor: pointer;
-  @media only screen and (max-width:${WIDTH800}){
+  @media only screen and (max-width:800px){
     order:-1;
 }
 `;

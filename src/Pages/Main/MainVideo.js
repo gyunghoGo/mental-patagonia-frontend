@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import hero_video from "../../images/video/hero_video.mp4";
+import {WIDTH800} from "../../Config";
 
 const MainVideo = () => {
   return (
@@ -31,15 +32,25 @@ const MainVideoWrap = styled.section`
   z-index: -100;
   background-size: cover;
   overflow: hidden;
+  @media only screen and (max-width:${WIDTH800}){
+
+  }
+  
 `;
 
 const ContentWrap = styled.div`
   position: absolute;
   width: 100%;
   top: 40%;
+  padding-left:5%;
+  padding-right:5%;
   margin: 0 auto;
   text-align: center;
   color: #ffff;
+  @media only screen and (max-width:${WIDTH800}){
+    top:70%;
+    text-align:left;
+}
 `;
 
 const HeroImg = styled.img`
@@ -47,13 +58,17 @@ const HeroImg = styled.img`
 `;
 
 const ContentP = styled.p`
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 1.1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:200;
   margin: 40px 0;
+  @media only screen and (max-width:${WIDTH800}){
+    margin: 30px 0;
+}
 `;
 
 const Button = styled.button`
-  padding: 0.8rem 3rem;
+  padding: 0.7rem 3rem;
   border-radius: 3rem;
   border: 0.3rem solid #ffffff;
   background-color: transparent;
@@ -62,7 +77,11 @@ const Button = styled.button`
   font-weight: 700;
   font-size: 1rem;
   transition: 0.2s;
+  font-family: Arial, Helvetica, sans-serif;
   &:hover {
     transform: scale(1.05);
   }
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+}
 `;

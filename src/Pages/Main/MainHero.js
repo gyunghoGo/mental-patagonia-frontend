@@ -1,5 +1,6 @@
 import React from "react";
 import styled, { css } from "styled-components";
+import {WIDTH800} from "../../Config"
 
 const MainHero = () => {
   return (
@@ -33,29 +34,50 @@ const IMG = styled.img`
   position: relative;
   opacity: 0.95;
   display: table;
+  /* @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    top:230%;
+  } */
+  
 `;
 
 const HeroContent = styled.div`
   position: absolute;
   color: white;
   top: 200%;
-  width: 60%;
+  width: 100%;
+  padding-left:10%;
+  padding-right:10%;
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    top:230%;
+  }
 `;
 
 const Title = styled.div`
   font-size: 70px;
   font-weight: 800;
   letter-spacing: 0.1;
-  margin-left: 8%;
   width: 90%;
+  font-family: Arial, Helvetica, sans-serif;
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    font-size:2.3rem;
+    letter-spacing:0.3px;
+  }
 `;
 
 const Desc = styled.p`
   font-size: 20px;
   line-height: 1.6;
   width: 65%;
-  margin-left: 8%;
   padding: 2.5% 0;
+  font-family: Arial, Helvetica, sans-serif;
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    font-size:1rem;
+    font-weight:300;
+  }
 `;
 
 const Button = styled.button`
@@ -65,9 +87,19 @@ const Button = styled.button`
   border-radius: 20rem;
   font-size: 16px;
   font-weight: 600;
-  margin-left: 8%;
-  transition: all 0.1s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  font-family: Arial, Helvetica, sans-serif;
+  @media only screen and (min-width:${WIDTH800}){
   &:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
+    transition:all .2s ease-in-out;
+  }
+}
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    &:hover{
+      transform: scale(1.01);
+    transition:all .2s ease-in-out;
+    }
   }
 `;
