@@ -1,0 +1,1209 @@
+{
+  "data": [
+    {
+      "id": 15,
+      "name": "Men's Better Sweater® 1/4-Zip Fleece",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0aa115f2%2Fimages%2Fhi-res%2F25523_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0aa115f2%2Fimages%2Fhi-res%2F25523_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 16,
+      "name": "Men's Nano-Air® Hoody",
+      "price_usd": "299.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 17,
+      "name": "Men's Classic Synchilla® Fleece Vest",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd9a6cc0e%2Fimages%2Fhi-res%2F23010_NKL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd9a6cc0e%2Fimages%2Fhi-res%2F23010_NKL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NKL"
+    },
+    {
+      "id": 18,
+      "name": "Men's Nano Puff® Vest",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdweed7c011%2Fimages%2Fhi-res%2F84242_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdweed7c011%2Fimages%2Fhi-res%2F84242_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 19,
+      "name": "Men's R2® TechFace Hoody",
+      "price_usd": "189.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwff59dc04%2Fimages%2Fhi-res%2F83730_SMDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwff59dc04%2Fimages%2Fhi-res%2F83730_SMDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SMDB"
+    },
+    {
+      "id": 20,
+      "name": "Men's Better Sweater® Fleece Vest",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw05db0e2f%2Fimages%2Fhi-res%2F25882_STH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw05db0e2f%2Fimages%2Fhi-res%2F25882_STH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "STH"
+    },
+    {
+      "id": 21,
+      "name": "Men's Rainshadow Jacket",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6d11396a%2Fimages%2Fhi-res%2F85115_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6d11396a%2Fimages%2Fhi-res%2F85115_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 22,
+      "name": "Men's Nano Puff® Hoody",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw35da81b3%2Fimages%2Fhi-res%2F84222_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw35da81b3%2Fimages%2Fhi-res%2F84222_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 23,
+      "name": "Men's Stretch Nano Storm® Jacket",
+      "price_usd": "399.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw32601ac1%2Fimages%2Fhi-res%2F84331_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw32601ac1%2Fimages%2Fhi-res%2F84331_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BLK"
+    },
+    {
+      "id": 24,
+      "name": "Men's R1® TechFace Pullover",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw214bb17f%2Fimages%2Fhi-res%2F83605_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw214bb17f%2Fimages%2Fhi-res%2F83605_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 25,
+      "name": "Men's Classic Retro-X® Fleece Vest",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbdddd0b1%2Fimages%2Fhi-res%2F23048_BOB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbdddd0b1%2Fimages%2Fhi-res%2F23048_BOB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BOB"
+    },
+    {
+      "id": 26,
+      "name": "Men's Quandary Jacket",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2ea27226%2Fimages%2Fhi-res%2F28055_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2ea27226%2Fimages%2Fhi-res%2F28055_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 27,
+      "name": "Men's Torrentshell 3L Jacket",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb66e4f47%2Fimages%2Fhi-res%2F85240_MAN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb66e4f47%2Fimages%2Fhi-res%2F85240_MAN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "MAN"
+    },
+    {
+      "id": 28,
+      "name": "Men's Woolyester Fleece Jacket",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd6aad9ae%2Fimages%2Fhi-res%2F26935_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd6aad9ae%2Fimages%2Fhi-res%2F26935_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 29,
+      "name": "Men's Lightweight Synchilla® Snap-T® Fleece Pullover",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdef9c644%2Fimages%2Fhi-res%2F25580_GWNE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdef9c644%2Fimages%2Fhi-res%2F25580_GWNE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "GWNE"
+    },
+    {
+      "id": 30,
+      "name": "Men's Torrentshell 3L Pullover",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw928a4eb2%2Fimages%2Fhi-res%2F85250_ANDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw928a4eb2%2Fimages%2Fhi-res%2F85250_ANDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "ANDB"
+    },
+    {
+      "id": 31,
+      "name": "Men's Micro D® Fleece Jacket",
+      "price_usd": "89.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw661a4bc1%2Fimages%2Fhi-res%2F26171_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw661a4bc1%2Fimages%2Fhi-res%2F26171_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 32,
+      "name": "Men's Micro Puff® Jacket",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw186f6b38%2Fimages%2Fhi-res%2F84065_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw186f6b38%2Fimages%2Fhi-res%2F84065_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FRE"
+    },
+    {
+      "id": 33,
+      "name": "Men's Baggies™ Jacket",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc96512be%2Fimages%2Fhi-res%2F28151_SPRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc96512be%2Fimages%2Fhi-res%2F28151_SPRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRE"
+    },
+    {
+      "id": 35,
+      "name": "Men's Silent Down Shirt Jacket",
+      "price_usd": "229.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw44ddc33e%2Fimages%2Fhi-res%2F27925_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw44ddc33e%2Fimages%2Fhi-res%2F27925_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 36,
+      "name": "Men's Triolet Jacket",
+      "price_usd": "399.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd62138a4%2Fimages%2Fhi-res%2F83402_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd62138a4%2Fimages%2Fhi-res%2F83402_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 37,
+      "name": "Men's Lightweight Better Sweater® Shelled Fleece Jacket",
+      "price_usd": "179.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa58464c7%2Fimages%2Fhi-res%2F26095_RDFY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa58464c7%2Fimages%2Fhi-res%2F26095_RDFY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "RDFY"
+    },
+    {
+      "id": 38,
+      "name": "Men's Storm Racer Jacket",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 39,
+      "name": "Men's Galvanized Jacket",
+      "price_usd": "349.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw759ad9b5%2Fimages%2Fhi-res%2F83147_PSS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw759ad9b5%2Fimages%2Fhi-res%2F83147_PSS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PSS"
+    },
+    {
+      "id": 40,
+      "name": "Men's Micro D® Snap-T® Fleece Pullover",
+      "price_usd": "89.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw681549a4%2Fimages%2Fhi-res%2F26165_CSC.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw681549a4%2Fimages%2Fhi-res%2F26165_CSC.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CSC"
+    },
+    {
+      "id": 41,
+      "name": "Men's Nano-Air® Jacket",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw18bfbb41%2Fimages%2Fhi-res%2F84252_PSS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw18bfbb41%2Fimages%2Fhi-res%2F84252_PSS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PSS"
+    },
+    {
+      "id": 42,
+      "name": "Men's Mojave Trails Jacket",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 43,
+      "name": "Men's Tres 3-in-1 Parka",
+      "price_usd": "599.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4190ddac%2Fimages%2Fhi-res%2F28388_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4190ddac%2Fimages%2Fhi-res%2F28388_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BLK"
+    },
+    {
+      "id": 44,
+      "name": "Men's Down Sweater Vest",
+      "price_usd": "179.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw02fc4e0d%2Fimages%2Fhi-res%2F84622_SMBA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw02fc4e0d%2Fimages%2Fhi-res%2F84622_SMBA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SMBA"
+    },
+    {
+      "id": 45,
+      "name": "Men's Better Sweater® Fleece Jacket",
+      "price_usd": "139.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw69817253%2Fimages%2Fhi-res%2F25528_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw69817253%2Fimages%2Fhi-res%2F25528_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INDG"
+    },
+    {
+      "id": 46,
+      "name": "Men's R1® Fleece Full-Zip Hoody",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf12cf833%2Fimages%2Fhi-res%2F40090_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf12cf833%2Fimages%2Fhi-res%2F40090_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INDG"
+    },
+    {
+      "id": 47,
+      "name": "Men's Better Sweater® Fleece Shirt Jacket",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9d7b7fdd%2Fimages%2Fhi-res%2F25840_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9d7b7fdd%2Fimages%2Fhi-res%2F25840_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 48,
+      "name": "Men's Nano Puff® Jacket",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw3f9f1194%2Fimages%2Fhi-res%2F84212_CBRS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw3f9f1194%2Fimages%2Fhi-res%2F84212_CBRS.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CBRS"
+    },
+    {
+      "id": 49,
+      "name": "Men's Airshed Pro Pullover",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "JOBL"
+    },
+    {
+      "id": 50,
+      "name": "Men's Micro Puff® Vest",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf91b259f%2Fimages%2Fhi-res%2F84075_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf91b259f%2Fimages%2Fhi-res%2F84075_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 51,
+      "name": "Men's Houdini® Jacket",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa931b7a4%2Fimages%2Fhi-res%2F24142_FICN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa931b7a4%2Fimages%2Fhi-res%2F24142_FICN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FICN"
+    },
+    {
+      "id": 52,
+      "name": "Men's Lightweight Better Sweater® Fleece Hoody",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw16793139%2Fimages%2Fhi-res%2F26085_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw16793139%2Fimages%2Fhi-res%2F26085_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 53,
+      "name": "Men's Lightweight Better Sweater® Fleece Jacket",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw05929744%2Fimages%2Fhi-res%2F26075_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw05929744%2Fimages%2Fhi-res%2F26075_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 54,
+      "name": "Men's Iron Forge Hemp® Canvas Ranch Jacket",
+      "price_usd": "179.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd2897123%2Fimages%2Fhi-res%2F27805_COI.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd2897123%2Fimages%2Fhi-res%2F27805_COI.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "COI"
+    },
+    {
+      "id": 55,
+      "name": "Men's Diamond Quilted Bomber Hoody",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2e4bd8b7%2Fimages%2Fhi-res%2F27610_EWBN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2e4bd8b7%2Fimages%2Fhi-res%2F27610_EWBN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "EWBN"
+    },
+    {
+      "id": 56,
+      "name": "Men's Classic Synchilla® Fleece Jacket",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6545b09e%2Fimages%2Fhi-res%2F22990_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6545b09e%2Fimages%2Fhi-res%2F22990_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 60,
+      "name": "Men's Woolyester Fleece Pullover",
+      "price_usd": "139.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw79e54a25%2Fimages%2Fhi-res%2F26940_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw79e54a25%2Fimages%2Fhi-res%2F26940_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "OAT"
+    },
+    {
+      "id": 61,
+      "name": "Men's Down Sweater Jacket",
+      "price_usd": "229.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw337dffd2%2Fimages%2Fhi-res%2F84674_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw337dffd2%2Fimages%2Fhi-res%2F84674_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 62,
+      "name": "Men's Down Sweater Hoody",
+      "price_usd": "279.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwfc59588c%2Fimages%2Fhi-res%2F84701_FRF.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwfc59588c%2Fimages%2Fhi-res%2F84701_FRF.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FRF"
+    },
+    {
+      "id": 63,
+      "name": "Men's Silent Down Jacket",
+      "price_usd": "279.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw96826aba%2Fimages%2Fhi-res%2F27930_SKA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw96826aba%2Fimages%2Fhi-res%2F27930_SKA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SKA"
+    },
+    {
+      "id": 64,
+      "name": "Men's City Storm Rain Parka",
+      "price_usd": "499.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4ee27b95%2Fimages%2Fhi-res%2F20700_CSC.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4ee27b95%2Fimages%2Fhi-res%2F20700_CSC.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CSC"
+    },
+    {
+      "id": 65,
+      "name": "Men's Micro Puff® Hoody",
+      "price_usd": "299.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0837a05b%2Fimages%2Fhi-res%2F84030_SMDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0837a05b%2Fimages%2Fhi-res%2F84030_SMDB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SMDB"
+    },
+    {
+      "id": 66,
+      "name": "Men's Synchilla® Snap-T® Fleece Pullover",
+      "price_usd": "139.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw8d166f7a%2Fimages%2Fhi-res%2F25450_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw8d166f7a%2Fimages%2Fhi-res%2F25450_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "OAT"
+    },
+    {
+      "id": 67,
+      "name": "Men's Calcite Jacket",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2a8c5c83%2Fimages%2Fhi-res%2F84986_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2a8c5c83%2Fimages%2Fhi-res%2F84986_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FRE"
+    },
+    {
+      "id": 68,
+      "name": "Men's Classic Retro-X® Fleece Jacket",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf2a30c38%2Fimages%2Fhi-res%2F23056_NAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf2a30c38%2Fimages%2Fhi-res%2F23056_NAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NAT"
+    },
+    {
+      "id": 70,
+      "name": "Men's R1® Fleece Pullover Hoody",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9e17d6d5%2Fimages%2Fhi-res%2F40069_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9e17d6d5%2Fimages%2Fhi-res%2F40069_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FRE"
+    },
+    {
+      "id": 71,
+      "name": "Men's All Seasons Hemp Canvas Vest",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw97e8fa6f%2Fimages%2Fhi-res%2F27815_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw97e8fa6f%2Fimages%2Fhi-res%2F27815_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INBK"
+    },
+    {
+      "id": 72,
+      "name": "Men's Stretch Terre Planing Hoody",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9aa49f60%2Fimages%2Fhi-res%2F86186_TOIB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9aa49f60%2Fimages%2Fhi-res%2F86186_TOIB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "TOIB"
+    },
+    {
+      "id": 73,
+      "name": "Men's R1® Fleece Pullover",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw719625a9%2Fimages%2Fhi-res%2F40110_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw719625a9%2Fimages%2Fhi-res%2F40110_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 74,
+      "name": "Men's R2® TechFace Jacket",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbbe62278%2Fimages%2Fhi-res%2F83625_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbbe62278%2Fimages%2Fhi-res%2F83625_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FRE"
+    },
+    {
+      "id": 75,
+      "name": "Men's Hi-Loft Down Hoody",
+      "price_usd": "279.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw21b4b0fa%2Fimages%2Fhi-res%2F84902_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw21b4b0fa%2Fimages%2Fhi-res%2F84902_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INDG"
+    },
+    {
+      "id": 76,
+      "name": "Men's Houdini® Air Jacket",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd4b349e3%2Fimages%2Fhi-res%2F24010_SPYG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd4b349e3%2Fimages%2Fhi-res%2F24010_SPYG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPYG"
+    },
+    {
+      "id": 77,
+      "name": "Men's Macro Puff® Hoody",
+      "price_usd": "399.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 78,
+      "name": "Men's R2® Fleece Jacket",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbd3bcf94%2Fimages%2Fhi-res%2F25139_RTSR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbd3bcf94%2Fimages%2Fhi-res%2F25139_RTSR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "RTSR"
+    },
+    {
+      "id": 79,
+      "name": "Men's Frozen Range Parka",
+      "price_usd": "699.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw06894b25%2Fimages%2Fhi-res%2F27975_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw06894b25%2Fimages%2Fhi-res%2F27975_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 80,
+      "name": "Men's Insulated Fjord Flannel Jacket",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw399b9256%2Fimages%2Fhi-res%2F27640_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw399b9256%2Fimages%2Fhi-res%2F27640_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 82,
+      "name": "Men's Nano-Air® Vest",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw97805fb9%2Fimages%2Fhi-res%2F84272_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw97805fb9%2Fimages%2Fhi-res%2F84272_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 83,
+      "name": "Men's Dirt Roamer Jacket",
+      "price_usd": "229.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwffb63f95%2Fimages%2Fhi-res%2F24381_WOBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwffb63f95%2Fimages%2Fhi-res%2F24381_WOBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "WOBR"
+    },
+    {
+      "id": 84,
+      "name": "Men's R1® TechFace Jacket",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9c73206f%2Fimages%2Fhi-res%2F83580_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9c73206f%2Fimages%2Fhi-res%2F83580_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BLK"
+    },
+    {
+      "id": 85,
+      "name": "Men's R1® TechFace Hoody",
+      "price_usd": "179.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw1a9a8160%2Fimages%2Fhi-res%2F83576_MAN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw1a9a8160%2Fimages%2Fhi-res%2F83576_MAN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "MAN"
+    },
+    {
+      "id": 86,
+      "name": "Men's Houdini® Snap-T® Pullover",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdbbde4a4%2Fimages%2Fhi-res%2F24150_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdbbde4a4%2Fimages%2Fhi-res%2F24150_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 94,
+      "name": "Men's Long-Sleeved R1® Fitz Roy 1/4-Zip",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5feda522%2Fimages%2Fhi-res%2F52721_SKA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5feda522%2Fimages%2Fhi-res%2F52721_SKA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SKA"
+    },
+    {
+      "id": 95,
+      "name": "Men's Crosstrek 1/4-Zip Fleece",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc9dd1fa0%2Fimages%2Fhi-res%2F23830_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc9dd1fa0%2Fimages%2Fhi-res%2F23830_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 96,
+      "name": "Men's Crosstrek Fleece Bottoms",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9efbc1c1%2Fimages%2Fhi-res%2F23860_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9efbc1c1%2Fimages%2Fhi-res%2F23860_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BLK"
+    },
+    {
+      "id": 97,
+      "name": "Men's Woolie Fleece Pullover",
+      "price_usd": "159.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwda3a5c70%2Fimages%2Fhi-res%2F26906_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwda3a5c70%2Fimages%2Fhi-res%2F26906_OAT.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "OAT"
+    },
+    {
+      "id": 100,
+      "name": "Men's Woolie Chore Coat",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw307cd297%2Fimages%2Fhi-res%2F26635_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw307cd297%2Fimages%2Fhi-res%2F26635_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INDG"
+    },
+    {
+      "id": 105,
+      "name": "Men's Better Sweater® Fleece Henley Pullover",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4ad78085%2Fimages%2Fhi-res%2F25305_PKRK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4ad78085%2Fimages%2Fhi-res%2F25305_PKRK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PKRK"
+    },
+    {
+      "id": 109,
+      "name": "Men's Micro D® Fleece Pullover",
+      "price_usd": "59.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc515f2f0%2Fimages%2Fhi-res%2F26176_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc515f2f0%2Fimages%2Fhi-res%2F26176_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SPRB"
+    },
+    {
+      "id": 115,
+      "name": "Men's Tin Shed Jacket",
+      "price_usd": "74.50",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf7cbed77%2Fimages%2Fhi-res%2F27775_SNBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf7cbed77%2Fimages%2Fhi-res%2F27775_SNBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SNBL"
+    },
+    {
+      "id": 117,
+      "name": "Men's Retro-X® Fleece Bomber Jacket",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw723380ee%2Fimages%2Fhi-res%2F22830_PLCN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw723380ee%2Fimages%2Fhi-res%2F22830_PLCN.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PLCN"
+    },
+    {
+      "id": 119,
+      "name": "Men's Double Sided Fleece Pullover",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6a678ec4%2Fimages%2Fhi-res%2F22890_OWBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw6a678ec4%2Fimages%2Fhi-res%2F22890_OWBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "OWBR"
+    },
+    {
+      "id": 121,
+      "name": "Men's Burly Man Vest",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw67fe30df%2Fimages%2Fhi-res%2F27770_DWA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw67fe30df%2Fimages%2Fhi-res%2F27770_DWA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "DWA"
+    },
+    {
+      "id": 122,
+      "name": "Men's Long-Sleeved Early Rise Snap Shirt",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa9f00a2c%2Fimages%2Fhi-res%2F52225_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa9f00a2c%2Fimages%2Fhi-res%2F52225_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INBK"
+    },
+    {
+      "id": 128,
+      "name": "Men's Snap Front Retro-X® Fleece Jacket",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "PLCN"
+    },
+    {
+      "id": 131,
+      "name": "Men's Organic Cotton Quilt Snap-T® Pullover",
+      "price_usd": "149.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbbc40f24%2Fimages%2Fhi-res%2F25371_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwbbc40f24%2Fimages%2Fhi-res%2F25371_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PUM"
+    },
+    {
+      "id": 132,
+      "name": "Men's Los Gatos 1/4-Zip Fleece",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "FEA"
+    },
+    {
+      "id": 135,
+      "name": "Men's Burly Man Hooded Jacket",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwde40ba9a%2Fimages%2Fhi-res%2F27765_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwde40ba9a%2Fimages%2Fhi-res%2F27765_INBK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "INBK"
+    },
+    {
+      "id": 136,
+      "name": "Men's R1® Fleece Pants",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 137,
+      "name": "Men's Triple Texture Fleece Jacket",
+      "price_usd": "179.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw398f5a58%2Fimages%2Fhi-res%2F23030_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw398f5a58%2Fimages%2Fhi-res%2F23030_NENA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 140,
+      "name": "Men's Recycled High Pile Fleece Down Jacket",
+      "price_usd": "279.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf0a2feec%2Fimages%2Fhi-res%2F26755_LDBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwf0a2feec%2Fimages%2Fhi-res%2F26755_LDBR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "LDBR"
+    },
+    {
+      "id": 144,
+      "name": "Men's Better Sweater® Rib Knit 1/4-Zip Fleece",
+      "price_usd": "119.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdfdc55c1%2Fimages%2Fhi-res%2F25300_NENK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwdfdc55c1%2Fimages%2Fhi-res%2F25300_NENK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NENK"
+    },
+    {
+      "id": 146,
+      "name": "Men's Lightweight Synchilla® Snap-T™ Fleece Pants",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "",
+      "hover_image": [""],
+      "defalut_color": "NENA"
+    },
+    {
+      "id": 147,
+      "name": "Men's Arched Fitz Roy Bear Uprisal Crew Sweatshirt",
+      "price_usd": "65.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe8692341%2Fimages%2Fhi-res%2F39544_PGBE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe8692341%2Fimages%2Fhi-res%2F39544_PGBE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PGBE"
+    },
+    {
+      "id": 148,
+      "name": "Men's P-6 Logo Uprisal Hoody",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw40c9bee0%2Fimages%2Fhi-res%2F39539_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw40c9bee0%2Fimages%2Fhi-res%2F39539_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "GLH"
+    },
+    {
+      "id": 149,
+      "name": "Men's P-6 Label Uprisal Hoody",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwace2d2eb%2Fimages%2Fhi-res%2F39611_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwace2d2eb%2Fimages%2Fhi-res%2F39611_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 150,
+      "name": "Men's P-6 Logo Lightweight Crew Sweatshirt",
+      "price_usd": "55.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4df72a13%2Fimages%2Fhi-res%2F39550_BEBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4df72a13%2Fimages%2Fhi-res%2F39550_BEBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BEBL"
+    },
+    {
+      "id": 151,
+      "name": "Men's P-6 Label Uprisal Crew Sweatshirt",
+      "price_usd": "65.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc5723482%2Fimages%2Fhi-res%2F39543_LBYG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc5723482%2Fimages%2Fhi-res%2F39543_LBYG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "LBYG"
+    },
+    {
+      "id": 152,
+      "name": "Men's Surf Activists Uprisal Crew Sweatshirt",
+      "price_usd": "65.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw291cb3a5%2Fimages%2Fhi-res%2F39587_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw291cb3a5%2Fimages%2Fhi-res%2F39587_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "GLH"
+    },
+    {
+      "id": 153,
+      "name": "Men's Fitz Roy Horizons Uprisal Hoody",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd765a228%2Fimages%2Fhi-res%2F39583_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwd765a228%2Fimages%2Fhi-res%2F39583_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BLK"
+    },
+    {
+      "id": 154,
+      "name": "Men's P-6 Label Lightweight Full-Zip Hoody",
+      "price_usd": "89.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4f1bfdc7%2Fimages%2Fhi-res%2F39547_FEA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw4f1bfdc7%2Fimages%2Fhi-res%2F39547_FEA.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FEA"
+    },
+    {
+      "id": 155,
+      "name": "Men's Organic Cotton Quilt Crewneck Sweatshirt",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw63883618%2Fimages%2Fhi-res%2F25320_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw63883618%2Fimages%2Fhi-res%2F25320_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 156,
+      "name": "Men's Hemp Crew Sweatshirt",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9903d509%2Fimages%2Fhi-res%2F53365_SNBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw9903d509%2Fimages%2Fhi-res%2F53365_SNBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "SNBL"
+    },
+    {
+      "id": 157,
+      "name": "Men's Fitz Roy Scope Lightweight Full-Zip Hoody",
+      "price_usd": "89.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw3302cd36%2Fimages%2Fhi-res%2F39545_BEBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw3302cd36%2Fimages%2Fhi-res%2F39545_BEBL.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "BEBL"
+    },
+    {
+      "id": 158,
+      "name": "Men's Lightweight Fjord Flannel Hoody",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw95f8329d%2Fimages%2Fhi-res%2F53275_ROVP.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw95f8329d%2Fimages%2Fhi-res%2F53275_ROVP.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "ROVP"
+    },
+    {
+      "id": 160,
+      "name": "Men's Trail Harbor Hoody",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw497c8642%2Fimages%2Fhi-res%2F52620_LPDO.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw497c8642%2Fimages%2Fhi-res%2F52620_LPDO.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "LPDO"
+    },
+    {
+      "id": 161,
+      "name": "Men's Fitz Roy Scope Lightweight Crew Sweatshirt",
+      "price_usd": "55.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb6a66757%2Fimages%2Fhi-res%2F39567_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb6a66757%2Fimages%2Fhi-res%2F39567_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PUM"
+    },
+    {
+      "id": 162,
+      "name": "Men's Organic Cotton Quilt Hoody",
+      "price_usd": "169.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2ff68f50%2Fimages%2Fhi-res%2F25375_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2ff68f50%2Fimages%2Fhi-res%2F25375_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PUM"
+    },
+    {
+      "id": 163,
+      "name": "Men's Trail Harbor Crewneck Sweatshirt",
+      "price_usd": "89.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc71e3f00%2Fimages%2Fhi-res%2F52610_LPDO.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwc71e3f00%2Fimages%2Fhi-res%2F52610_LPDO.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "LPDO"
+    },
+    {
+      "id": 164,
+      "name": "Men's Fitz Roy Horizons Uprisal Crew Sweatshirt",
+      "price_usd": "65.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw20142323%2Fimages%2Fhi-res%2F39586_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw20142323%2Fimages%2Fhi-res%2F39586_CNY.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "CNY"
+    },
+    {
+      "id": 165,
+      "name": "Men's Line Logo Ridge Uprisal Hoody",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7a1e9cb1%2Fimages%2Fhi-res%2F39584_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7a1e9cb1%2Fimages%2Fhi-res%2F39584_PUM.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "PUM"
+    },
+    {
+      "id": 166,
+      "name": "Men's Fitz Roy Bison Uprisal Hoody",
+      "price_usd": "79.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw55d60ffe%2Fimages%2Fhi-res%2F39582_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw55d60ffe%2Fimages%2Fhi-res%2F39582_GLH.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "GLH"
+    },
+    {
+      "id": 167,
+      "name": "Men's Line Logo Ridge Lightweight Crew Sweatshirt",
+      "price_usd": "55.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0c00e33c%2Fimages%2Fhi-res%2F39568_ELGR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw0c00e33c%2Fimages%2Fhi-res%2F39568_ELGR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "ELGR"
+    },
+    {
+      "id": 168,
+      "name": "Men's Recycled Cashmere 1/4-Zip Sweater",
+      "price_usd": "249.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw48af2b72%2Fimages%2Fhi-res%2F50600_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw48af2b72%2Fimages%2Fhi-res%2F50600_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "FGE"
+    },
+    {
+      "id": 169,
+      "name": "Men's Fog Cutter Sweater",
+      "price_usd": "99.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw8af5acd9%2Fimages%2Fhi-res%2F50581_ARGR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw8af5acd9%2Fimages%2Fhi-res%2F50581_ARGR.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "ARGR"
+    },
+    {
+      "id": 174,
+      "name": "Men's Recycled Wool Sweater",
+      "price_usd": "129.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw823cf6d6%2Fimages%2Fhi-res%2F50655_HEXG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw823cf6d6%2Fimages%2Fhi-res%2F50655_HEXG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "HEXG"
+    },
+    {
+      "id": 176,
+      "name": "Men's Recycled Cashmere Crewneck Sweater",
+      "price_usd": "199.00",
+      "color": [],
+      "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7d6d9674%2Fimages%2Fhi-res%2F50525_NVYB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+      "hover_image": [
+        "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7d6d9674%2Fimages%2Fhi-res%2F50525_NVYB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      ],
+      "defalut_color": "NVYB"
+    }
+  ]
+}

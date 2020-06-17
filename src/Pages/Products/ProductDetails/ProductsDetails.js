@@ -1,8 +1,7 @@
 import React from "react";
-import styled, { css } from "styled-components";
-import { withRouter, Link } from "react-router-dom";
+import styled from "styled-components";
 import { connect } from "react-redux";
-import Header from "../../../Component/Header/Header";
+import ProductsDetailHeader from "../../../Component/Header/ProductsDetailHeader";
 import Modal from "./Modal/Modal";
 import SlideCarousel from "../../Products/ProductDetails/SlideCarousel";
 import OptionSection from "../ProductDetails/OptionSection";
@@ -12,7 +11,7 @@ import Footer from "../../../Component/Footer/Footer";
 const ProductDetails = ( { handleModal } ) => {
   return (
     <>
-      <Header />
+      <ProductsDetailHeader />
       <Title>Men's Torrentshell 3L Jacket</Title>
       <SlideCarousel />
       <OptionSection />
@@ -38,6 +37,6 @@ const Title = styled.h1`
   text-align: center;
   width: 40%;
   margin: 0 auto;
-  padding-top: 11%;
+  padding-top: 15%;
   padding-bottom: 7%;
 `;

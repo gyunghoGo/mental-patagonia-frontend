@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import styled, { css } from "styled-components";
 import Slide from "./Slide";
+import {WIDTH800} from "../../Config"
 
 function SlideCarousel() {
   const [categoryData, setCategoryData] = useState([]);
@@ -64,6 +65,10 @@ const Container = styled.section`
   margin: 0 auto;
   position: relative;
   padding: 0 5%;
+  @media only screen and (max-width:${WIDTH800}){
+    height:95vh;
+    padding: 0 6%;
+  }
 `;
 
 const SliderContainer = styled.div`
@@ -91,9 +96,11 @@ const Button = styled.button`
   z-index: 9;
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
   opacity:0.5;
+  
   &:hover {
     transition: all 0.4s ease-in-out;
-    transform: scale(1.05);
+    transform: scale(1.025);
     opacity:1;
-  }
+  
+}
 `;

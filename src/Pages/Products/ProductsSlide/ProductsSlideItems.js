@@ -3,6 +3,8 @@ import styled from "styled-components";
 
 const ProductsSlideItems = () => {
     const [itemsList, setItemsList] = useState([]);
+    const [currentSlide, setCurrentSlide] = useState(0);
+    const [positionX, setPositionX] = useState(0);
 
     useEffect (()=>{
         fetch("data/pro.json")
@@ -10,8 +12,7 @@ const ProductsSlideItems = () => {
         .then((res) => setItemsList (res.category));
     }, []);
 
-    const [currentSlide, setCurrentSlide] = useState(0);
-    const [positionX, setPositionX] = useState(0);
+    
     
     const nextSlide =() =>{
         let TOTAL_SLIDES = itemsList.length;
@@ -31,7 +32,6 @@ const ProductsSlideItems = () => {
             setPositionX(positionX + 300);
         }
     }
-    console.log(itemsList);
     return(
         <>
             <Title>
@@ -50,13 +50,13 @@ const ProductsSlideItems = () => {
                     transition: "all 0.3s ease-in-out",
                 }}>
                     {itemsList.map((el) =>
-                    <Wrap>
+                    <Slide>
                     <Img src={el.image_url} alt="img" />
                     <TitleWrap>
                     <SlideTitle>{el.title}</SlideTitle>
                     <Price>{el.price}</Price>
                     <Colors>{el.color}</Colors>
-                    </TitleWrap> </Wrap>)
+                    </TitleWrap> </Slide>)
                     }
                 </SlideWrap>
                 <BtnWrap>
@@ -109,17 +109,14 @@ const Title = styled.div `
     }
 `;
 
-
-
 const SlideContainer = styled.div`
-    padding: 0 4rem;
+    padding: 0 3rem;
     position:relative;
     width:100%;
-    height:65vh;
+    height:62vh;
     margin: 0 auto;
     overflow:hidden;
 `;
-
 
 const SlideWrap = styled.div`
     width:100%;
@@ -129,7 +126,7 @@ const SlideWrap = styled.div`
     text-align:center;
 `;
 
-const Wrap = styled.div`
+const Slide = styled.div`
     display:flex;
     flex-direction:column;
     margin-right:1.5%;

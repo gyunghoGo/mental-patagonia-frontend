@@ -1,6 +1,7 @@
 import React from "react";
 // import { withRouter, Link } from "react-router-dom";
 import styled from "styled-components";
+import {WIDTH800} from "../../Config"
 
 const Footer = () => {
   return (
@@ -76,6 +77,10 @@ const Footers = styled.footer`
   background: #000;
   color: #fff;
   z-index: 10;
+  @media only screen and (max-width:${WIDTH800}){
+    padding: 0 2rem 4rem 2rem;
+  }
+ 
 `;
 
 const FooterInner = styled.div`
@@ -86,6 +91,10 @@ const FooterInner = styled.div`
   padding: 3rem 0 0;
   font-weight: 800;
   margin-top: 3rem;
+  @media only screen and (max-width:${WIDTH800}){
+    flex-direction:column;
+    width:100%;
+  }
 `;
 
 const SubscriptUl = styled.ul`
@@ -93,10 +102,23 @@ const SubscriptUl = styled.ul`
   margin: 0 5rem 5rem 0;
   padding-right: 2rem;
   width: 33%;
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    padding:0%;
+  }
 
   li {
     margin-right: 3rem;
+    @media only screen and (max-width:${WIDTH800}){
+      margin:0;
+      width:90%;
+    }
+
   }
+  @media only screen and (max-width:${WIDTH800}){
+    width:100%;
+    margin: 0 0 5rem 0;
+}
 `;
 const Content = styled.div`
   span {
@@ -111,6 +133,9 @@ const Content = styled.div`
     text-align: left;
     line-height: 1.75;
     margin: 20% 0;
+    @media only screen and (max-width:${WIDTH800}){
+      margin: 7% 0;
+    }
   }
 `;
 
@@ -134,7 +159,6 @@ const InputBtnWrap = styled.div`
     font-size: 1rem;
     font-family: Helvetica Neue, Arial, sans-serif;
     font-weight: 700;
-    -webkit-transition: 0.2s;
     transition: 0.2s;
     outline: none;
     &:hover {
@@ -146,7 +170,6 @@ const InputBtnWrap = styled.div`
 const NeedHelp = styled.div`
   margin: 0 5rem 5rem 0;
   padding: 0 2rem;
-
   width: 33%;
   span {
     font-size: 1.7rem;
@@ -161,7 +184,14 @@ const NeedHelp = styled.div`
     font-size: 0.9rem;
     letter-spacing: 1px;
     line-height: 2;
+    @media only screen and (max-width:${WIDTH800}){
+      margin-top:0;
+    }
   }
+  @media only screen and (max-width:${WIDTH800}){
+      width:100%;
+      padding:0;
+    }
 `;
 
 const BtnWrap = styled.div`
@@ -176,13 +206,15 @@ const BtnWrap = styled.div`
     margin-bottom: 1rem;
     font-weight: 700;
     font-size: 1rem;
-    -webkit-transition: 0.2s;
     transition: 0.2s;
     outline: none;
     &:hover {
       transform: scale(1.05);
     }
   }
+  @media only screen and (max-width:${WIDTH800}){
+      margin: 3rem 0;
+    }
 `;
 
 const MoreInfo = styled.div`
@@ -194,6 +226,10 @@ const MoreInfo = styled.div`
     font-family: Helvetica Neue, Arial, sans-serif;
     letter-spacing: 1.1px;
   }
+  @media only screen and (max-width:${WIDTH800}){
+      width:100%;
+      padding:0;
+    }
 `;
 
 const TextWrap = styled.div`

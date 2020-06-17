@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+import {WIDTH800} from "../../../Config"
 
 const HeaderTop = () => {
   return (
@@ -36,6 +37,7 @@ const DrawersBar = styled.div`
     color: white;
     transition: all opacity 0.2s;
   }
+
 `;
 
 const LoginBtn = styled.div`
@@ -60,6 +62,9 @@ const LoginBtn = styled.div`
   &:hover {
   text-decoration: underline;
   }
+  }
+  @media only screen and (max-width:${WIDTH800}){
+    display:none;
   }
 `;
 export default HeaderTop;

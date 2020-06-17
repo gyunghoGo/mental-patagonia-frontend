@@ -5,6 +5,8 @@ import Products from "./Pages/Products/Products";
 import ProductDetails from "./Pages/Products/ProductDetails/ProductsDetails";
 import SignIn from "./Pages/SignIn/SignIn";
 import Modal from "./Pages/Products/ProductDetails/Modal/Modal";
+import HeaderFilterTop from "./Component/Header/HeaderTop/HeaderFilterTop";
+import App from "./Component/Scroll/App"
 
 
 class Routes extends React.Component {
@@ -17,6 +19,9 @@ class Routes extends React.Component {
           <Route exact path="/products/details" component={ProductDetails} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/modal" component={Modal} />
+          <Route exact path="/filtertop" component={HeaderFilterTop} />
+          <Route exact path="/app" component={App} />
+
         </Switch>
       </Router>
     );
