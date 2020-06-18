@@ -3,8 +3,7 @@ import styled, { css } from "styled-components";
 import { connect } from "react-redux";
 import { openModal } from "../../../../store/actions";
 
-
-const Modal = ({handleModal, openModal}) => {
+const Modal = ({openModal, handleModal }) => {
 
   const closeTrigger = () => {
     openModal();

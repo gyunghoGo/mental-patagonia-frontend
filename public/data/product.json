@@ -1,0 +1,840 @@
+{
+  "data": {
+    "id": 16,
+    "name": "Men's Nano-Air® Hoody",
+    "rating": "4.5",
+    "review": 45,
+    "price_usd": "299.00",
+    "default": {
+      "id": 40,
+      "name": "Superior Blue",
+      "code": "SPRB",
+      "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+    },
+    "images": [
+      {
+        "id": 1179,
+        "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe504ab81%2Fimages%2Fhi-res%2F84366_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      },
+      {
+        "id": 1180,
+        "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7430a096%2Fimages%2Fhi-res%2F84366_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      },
+      {
+        "id": 1181,
+        "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb7af65d2%2Fimages%2Fhi-res%2F84366_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      },
+      {
+        "id": 1182,
+        "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      },
+      {
+        "id": 1183,
+        "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa0d55623%2Fimages%2Fhi-res%2F84366_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95"
+      }
+    ],
+    "option": [
+      {
+        "id": 39,
+        "color_name": "Black",
+        "color_code": "BLK",
+        "main_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe504ab81%2Fimages%2Fhi-res%2F84366_BLK.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "sub_image": [
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw74804610%2Fimages%2Fhi-res%2F84366_FRE_JB2.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe18e4625%2Fimages%2Fhi-res%2F84366_FRE_OPEN.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5bb74e7b%2Fimages%2Fhi-res%2F84366_FRE_JBPKT.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwcd94e401%2Fimages%2Fhi-res%2F84366_FRE_JBSTUFF.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "color_name": "Fire",
+        "color_code": "FRE",
+        "main_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw7430a096%2Fimages%2Fhi-res%2F84366_FRE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "sub_image": [
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw74804610%2Fimages%2Fhi-res%2F84366_FRE_JB2.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe18e4625%2Fimages%2Fhi-res%2F84366_FRE_OPEN.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5bb74e7b%2Fimages%2Fhi-res%2F84366_FRE_JBPKT.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwcd94e401%2Fimages%2Fhi-res%2F84366_FRE_JBSTUFF.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "color_name": "Industrial Green",
+        "color_code": "INDG",
+        "main_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwb7af65d2%2Fimages%2Fhi-res%2F84366_INDG.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "sub_image": [
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw74804610%2Fimages%2Fhi-res%2F84366_FRE_JB2.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe18e4625%2Fimages%2Fhi-res%2F84366_FRE_OPEN.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5bb74e7b%2Fimages%2Fhi-res%2F84366_FRE_JBPKT.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwcd94e401%2Fimages%2Fhi-res%2F84366_FRE_JBSTUFF.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "color_name": "Superior Blue",
+        "color_code": "SPRB",
+        "main_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "sub_image": [
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw74804610%2Fimages%2Fhi-res%2F84366_FRE_JB2.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe18e4625%2Fimages%2Fhi-res%2F84366_FRE_OPEN.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5bb74e7b%2Fimages%2Fhi-res%2F84366_FRE_JBPKT.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwcd94e401%2Fimages%2Fhi-res%2F84366_FRE_JBSTUFF.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "color_name": "Forge Grey",
+        "color_code": "FGE",
+        "main_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwa0d55623%2Fimages%2Fhi-res%2F84366_FGE.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "sub_image": [
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw74804610%2Fimages%2Fhi-res%2F84366_FRE_JB2.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwe18e4625%2Fimages%2Fhi-res%2F84366_FRE_OPEN.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw5bb74e7b%2Fimages%2Fhi-res%2F84366_FRE_JBPKT.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          },
+          {
+            "image_url": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=140&sh=140&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdwcd94e401%2Fimages%2Fhi-res%2F84366_FRE_JBSTUFF.png%3Fsw%3D140%26sh%3D140%26q%3D80&sfrm=png&q=80"
+          }
+        ]
+      }
+    ],
+    "size": [
+      {
+        "id": 2,
+        "name": "XS"
+      },
+      {
+        "id": 3,
+        "name": "S"
+      },
+      {
+        "id": 4,
+        "name": "M"
+      },
+      {
+        "id": 5,
+        "name": "L"
+      },
+      {
+        "id": 6,
+        "name": "XL"
+      },
+      {
+        "id": 7,
+        "name": "XXL"
+      }
+    ],
+    "fitness": "Slim",
+    "overview": "The Nano-Air® Hoody was made to be worn for the entirety of your aerobic, start-stop alpine missions, so you’re never slowed down by changing layers. Warm, stretchy and breathable FullRange® insulation dumps excess heat when you’re working hard and keeps you warm when you’re not. Fair Trade Certified™ sewn.",
+    "feature": "\n<li>\n<h2 class=\"h9\">Stretchy, Breathable, Weather-Resistant Fabric</h2>\n100% polyester (87% recycled) plain-weave shell and lining fabric offers generous mechanical stretch, exceptional breathability and improved abrasion resistance; microtexture creates excellent next-to-skin comfort; features a DWR (durable water repellent) finish\n</li>\n<li>\n\n<h2 class=\"h9\">Revolutionary FullRange Insulation</h2>\nRevolutionary 60-g FullRange® insulation (40% recycled) warms and stretches and, combined with the shell and lining, supplies outstanding mechanical stretch and unprecedented air permeability (40CFM), allowing excess heat to move away from the body\n</li>\n<li>\n<h2 class=\"h9\">Designed for Freedom of Movement</h2>\n\nStretch fabrics and insulation, articulated patterning, and strategically placed, low-profile quilting provide exceptional range of motion for unhindered movement\n</li>\n<li>\n<h2 class=\"h9\">Stretchy Hood</h2>\n\nStretchy hood with binding easily pulls on or off, even when jacket is zipped\n</li>\n<li>\n<h2 class=\"h9\">Center-Front Zipper</h2>\nCenter-front zipper has zipper garage at chin for next-to-skin comfort\n</li>\n\n<li>\n<h2 class=\"h9\">Pocket Features</h2>\nTwo handwarmer pockets and a left-chest pocket are zippered, low-profile and low-bulk to wear comfortably with a harness or pack; self-stuffs into left-chest pocket\n</li>\n<li>\n\n<h2 class=\"h9\">Low-Profile Variable Conditions Cuffs</h2>\nSleek, low-bulk, snag-resistant Variable Conditions Cuffs use stretch knit for versatile coverage and comfort; elasticized hem seals in warmth; Fair Trade Certified™ sewn\n</li>\n<li>\n<h2 class=\"h9\">Country of Origin</h2>\nMade in Vietnam.\n</li>\n<li>\n<h2 class=\"h9\">Weight</h2>\n346 g (12.2 oz)\n</li>\n",
+    "materials": "\n<li>Shell and lining: 1.7-oz 100% polyester (87% recycled) plain weave with four-way mechanical stretch and a DWR (durable water repellent) finish</li><li>Cuffs: 4.9-oz 100% polyester snag-resistant stretch knit with a DWR finish</li><li>Insulation: 60-g FullRange® 100% polyester (40% recycled) with four-way stretch</li><li>Fabric is certified as bluesign® approved</li><li>Fair Trade Certified™ sewn</li>\n",
+    "similar": [
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      },
+      {
+        "name": "Men's Nano-Air® Hoody",
+        "price": "299.00",
+        "product_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=800&sh=800&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw143d04d2%2Fimages%2Fhi-res%2F84366_SPRB.png%3Fsw%3D800%26sh%3D800%26q%3D95&sfrm=png&q=95",
+        "hover_image": "https://www.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb901c3b0/images/hi-res/gray.jpg?sw=2000&sh=2000&ox=0&oy=0&oimg=https%3A%2F%2Fwww.patagonia.com%2Fdw%2Fimage%2Fv2%2FBDJB_PRD%2Fon%2Fdemandware.static%2F-%2FSites-patagonia-master%2Fdefault%2Fdw2b994203%2Fimages%2Fhi-res%2F84366_FRE_JB1.png%3Fsw%3D2000%26sh%3D2000%26q%3D75&sfrm=png&q=75"
+      }
+    ]
+  }
+}

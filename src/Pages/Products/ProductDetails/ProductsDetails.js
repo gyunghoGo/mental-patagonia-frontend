@@ -1,22 +1,39 @@
-import React from "react";
-import styled from "styled-components";
+import React, { useState,useEffect } from "react";
+import styled, { css } from "styled-components";
+import { withRouter, Link } from "react-router-dom";
 import { connect } from "react-redux";
 import ProductsDetailHeader from "../../../Component/Header/ProductsDetailHeader";
 import Modal from "./Modal/Modal";
 import SlideCarousel from "../../Products/ProductDetails/SlideCarousel";
-import OptionSection from "../ProductDetails/OptionSection";
 import DetailsSection from "../ProductDetails/DetailsSection";
 import Footer from "../../../Component/Footer/Footer";
 
-const ProductDetails = ( { handleModal } ) => {
+
+const ProductDetails = ( { handleModal, selectSize, selectColor } ) => {
+
+
+  const [filteredProducts, setFilteredProducts] = useState([]);
+
+
+  useEffect(()=>{
+    fetch('http://10.58.7.224:8080/product/17')
+    .then(res=>res.json())
+    .then(res => {
+      setFilteredProducts(res.data)
+    })
+  }, [])
+  
+  console.log("filtered >>", filteredProducts)
+ 
+
+
   return (
     <>
       <ProductsDetailHeader />
-      <Title>Men's Torrentshell 3L Jacket</Title>
-      <SlideCarousel />
-      <OptionSection />
-      <Modal handleModal={handleModal}  />
-      <DetailsSection />
+      <Title>{filteredProducts.name}</Title>
+      <SlideCarousel data={filteredProducts} />
+      <Modal data={filteredProducts} handleModal={handleModal} />
+      <DetailsSection data={filteredProducts}  />
       <Footer />
     </>
   );
@@ -24,7 +41,8 @@ const ProductDetails = ( { handleModal } ) => {
 
 const mapStateToProps = (state) => {
   return {
-    handleModal : state
+     handleModal : state,
+     selectSize : state.selectSize 
   }
 }
 

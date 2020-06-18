@@ -6,3 +6,5 @@ export const handleModal = (state=false, action) => {
             return state; 
     } 
 }
+
+
