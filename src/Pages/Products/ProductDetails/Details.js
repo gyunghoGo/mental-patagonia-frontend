@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import styled, { css } from "styled-components";
 
 const Details = ({data}) => {
-  console.log("hello", data)
 
   // data
 
@@ -10,7 +9,9 @@ const Details = ({data}) => {
     <>
         {
          data.id && 
-          data.option.map(something => something.sub_image.map((img) => <IMG src={img.image_url} alt="details" />))
+          data.option.map(
+            something => something.sub_image.map(
+              (img) => <IMG src={img.image_url} alt="details" />))
         } 
     </>
   )

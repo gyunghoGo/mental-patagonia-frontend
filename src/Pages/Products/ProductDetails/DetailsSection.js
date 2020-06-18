@@ -12,7 +12,9 @@ import Spec from "./Spec";
 const DetailsSection = (props) => {
 
   const [clickedBtn, setClickedBtn] = useState(false);
+  const [specActive, setSpecActive] = useState(false);
   const [filteredProducts, setFilteredProducts] = useState(props.data);
+
 
   useEffect(() => {
     setFilteredProducts(props.data);
@@ -25,6 +27,11 @@ const DetailsSection = (props) => {
    const openTrigger = () => {
      openModal();
    }
+
+   const handleSpec = () => {
+     setSpecActive(true);
+   }
+
 
    //필터 로직 
  const filterColor = (color) => {
@@ -40,7 +47,6 @@ const DetailsSection = (props) => {
     { props.data !== undefined  && (
       <>
      <OptionInfo>
-      {/* <p>{props.data.color_code}</p> */}
       <p> ${props.data.price_usd}</p>
      </OptionInfo>
     <ThumbnailsWrap>
@@ -56,7 +62,7 @@ const DetailsSection = (props) => {
      </Size> )}
     </SizeWrap>
     <Rule >Regular | Size & Fit Guide</Rule>
-    <BagBtn>Add to Bag</BagBtn>
+   <BagBtn>Add to Bag</BagBtn>
     <Rule onClick={openTrigger} >Shipping, Exchange & Returns</Rule>
     </SizeRule>
     <DetailsWrap>
@@ -67,13 +73,10 @@ const DetailsSection = (props) => {
         <P>Overview</P>
         <Overview>
           <TextArea>
-            Simple and unpretentious, our trusted Torrentshell 3L Jacket uses
-            3-layer H2No® Performance Standard technology for exceptional
-            waterproof/breathable performance, all-day comfort and long-lasting
-            waterproof durability. Fair Trade Certified™ sewn.
+            {filteredProducts.overview}
           </TextArea>
-          <SpecBtn>Spec & Features</SpecBtn>
-          {/* <Spec /> */}
+          <SpecBtn isActive={specActive}  onClick={handleSpec}>Spec & Features</SpecBtn>
+           <Wrap><Spec spec={filteredProducts.feature} /></Wrap>
         </Overview>
       </OverviewWrap>
     </DetailsWrap>
@@ -96,7 +99,7 @@ const OptionInfo = styled.div`
 `;
 
 const ThumbnailsWrap = styled.div`
-  width: 50%;
+  width: 20%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -153,7 +156,7 @@ const BagBtn = styled.button`
   background-color: black;
   font-weight: 700;
   font-size: 1rem;
-  color: #ffff;
+  color: white;
 `;
 
 
@@ -201,4 +204,14 @@ const SpecBtn = styled.button`
   font-weight: 700;
   font-size: 1rem;
   color: #ffff;
+`;
+
+
+const Wrap = styled.div`
+  display: none;
+  ${props => props.isActive && css`
+    display: block;
+    background-color: black;
+    color: white;
+  `}
 `;

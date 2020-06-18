@@ -8,7 +8,6 @@ const Thumbnail = (props) => {
     setClickedThumbnail(id);
   }
 
-  console.log("Thumbnail >>",props)
 
   return (props.thumbnail !==undefined && props.thumbnail.map((thumb) => {
     return (
