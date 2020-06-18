@@ -1,31 +1,57 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 
-const ProductsFilterContent =() => {
-    const [contentList, setContentList] = useState([]);
+const ProductsFilterContent =({selectedColotAndSize, chosenColor, list, setNum}) => {
+    const [contentList, setContentList] = useState(list);
+
+    useEffect(() => {
+        setContentList(list);
+    }, [list]) //list가 변할때만 실행시켜 준다. 
+
+    useEffect(() => {
+        const filterList = list.filter(item => {
+            let isColorExist = false;
     
-    useEffect (()=>{
-        fetch("/data/items.json")
-        // fetch("http://10.58.6.173:8080/product")
-        .then((res) => res.json())
-        .then((res) => setContentList (res.data));
-    }, []);
+            for (let i of item.color) {
+                if (i.name.includes(chosenColor)){
+                    isColorExist = true;
+                }
+            }
+            return isColorExist
+        })
+        setContentList(filterList);
+    }, [chosenColor])
+
+    // 필터링
+    // setFilterSelect([...filterSelect, color]);
     
+
     return(
-        <Content>
+        <>
+        <Content cententList={contentList}>
               {contentList.map((el)=> 
                <Filter>
                <Img src={el.product_image} alt="img" />
+               <HoverImg src={el.hover_image[0]} alt="" />
                <TitleWrap>
                    <SlideTitle>{el.name}</SlideTitle>
                    <Price>{el.price_usd}</Price>
-                   {/* <Colors>{el.color}</Colors> */}
                </TitleWrap> 
            </Filter>
            )}
         </Content>
+        <Wrap>
+            <Prev onClick = {() => setNum(0)}>
+                <i class="fas fa-chevron-left"></i>
+            </Prev>
+            <Next onClick ={() => setNum(1)}>
+                <i class="fas fa-chevron-right"></i>
+            </Next>
+         </Wrap>
+        </>
     );
 };
+
 export default ProductsFilterContent;
 
 const Content = styled.div`
@@ -55,11 +81,26 @@ const Img = styled.img`
     width:320px;
     height:330px;
     border-radius:3%;
+    position:relative;
+`;
+
+const HoverImg = styled.img`
+    width:320px;
+    height:330px;
+    border-radius:3%;
+    position:absolute;
+    z-index:5;
+    opacity:0;
+    transition: opacity .3s;
+    &:hover{
+        opacity:1;
+    }
 `;
 
 const TitleWrap = styled.div`
     display:flex;
     flex-direction:column;
+    position:relative;
 `;
 
 const SlideTitle = styled.div`
@@ -77,6 +118,42 @@ const Price = styled.div`
     margin-top:10px;
     color:#000;
     `;
+
+
+
+const Wrap = styled.div`
+    display: flex;
+    margin : 0 auto;
+    justify-content:center;
+`;
+
+const Prev = styled.button`
+    padding: 0.4rem 1rem;
+    border-radius: 3rem;
+    border: 0.3rem solid #000;
+    color: #000;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: 0.2s;
+    outline: none;
+    cursor:pointer;
+    margin : 1rem 0;
+`;
+
+const Next = styled.button`
+    padding: 0.4rem 1rem;
+    border-radius: 3rem;
+    border: 0.3rem solid #000;
+    color: #000;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: 0.2s;
+    outline: none;
+    cursor:pointer;
+    margin : 1rem 0;
+`;
 
 // const Colors = styled.div`
 //     font-size:1rem;

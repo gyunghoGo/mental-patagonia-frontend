@@ -1,0 +1,16 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Casual"
+    },
+    {
+      "id": 2,
+      "title": "Technical"
+    },
+    {
+      "id": 3,
+      "title": "Fair Trade"
+    }
+  ]
+}

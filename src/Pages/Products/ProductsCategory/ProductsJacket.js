@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import ProductsFilterContent from "./ProductsFilterContent";
+import ProductsFilterContent from "../ProductsFilterContent";
 
-const ProductsCategory = (props) => {
+const ProductsJacket = (props) => {
     const [List, setList] = useState([]);
     const [viewSize, setViewSize] = useState(false);
     const [viewColor, setViewColor] = useState(false);
@@ -42,7 +42,7 @@ const ProductsCategory = (props) => {
     }, []);
 
     const loadList = async () => {
-        const res = await fetch("data/mainShopData.json");
+        const res = await fetch("/data/jacket.json");
         const list = await res.json();
         setList(list);
     }
@@ -54,9 +54,9 @@ const ProductsCategory = (props) => {
                         <Category>
                             <span>Categories</span>
                             <ul>
-                            {List.menData &&
-                            List.menData.map((re)=> (
-                            <li>{re.text}</li>
+                            {List.category &&
+                            List.category.map((re)=> (
+                            <li>{re.title}</li>
                             ))}
                             </ul>
                             </Category>
@@ -96,7 +96,7 @@ const ProductsCategory = (props) => {
         </Container>
     )
 }
-export default ProductsCategory;
+export default ProductsJacket;
 
 const Container = styled.div`
     width:100%;

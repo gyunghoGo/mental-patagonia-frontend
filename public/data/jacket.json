@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Insulated"
+    },
+    {
+      "id": 2,
+      "title": "Rainwear"
+    },
+    {
+      "id": 3,
+      "title": "Climbing"
+    },
+    {
+      "id": 4,
+      "title": "Casual"
+    },
+    {
+      "id": 5,
+      "title": "Ski/Snowboarding"
+    },
+    {
+      "id": 6,
+      "title": "Hard Shell"
+    },
+    {
+      "id": 7,
+      "title": "Fleece"
+    },
+    {
+      "id": 8,
+      "title": "Windbreaker"
+    },
+    {
+      "id": 10,
+      "title": "3-in-1"
+    },
+    {
+      "id": 11,
+      "title": "Soft Shell"
+    },
+    {
+      "id": 12,
+      "title": "Parkas and Coats"
+    },
+    {
+      "id": 13,
+      "title": "Vests"
+    }
+  ]
+}

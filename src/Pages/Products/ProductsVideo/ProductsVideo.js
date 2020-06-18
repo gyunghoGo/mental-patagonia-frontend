@@ -5,15 +5,15 @@ import productsMainTop from "../../../images/video/productsMainTop.mp4";
 const ProductsVideo =() =>{
     return( 
     <VideoWrap>
-    <video playsinline autoplay="true" muted loop>
-        <source src = {productsMainTop} type ="video/mp4" />
-    </video>
-    <ContentWrap>
-        <Content>
-        <h1>Men's</h1>
-        <button>Filter</button>
-        </Content>
-    </ContentWrap>
+        <video playsinline autoplay="true" muted loop>
+            <source src = {productsMainTop} type ="video/mp4" />
+        </video>
+        <ContentWrap>
+            <Content>
+                <h1>Men's</h1>
+                <button>Filter</button>
+            </Content>
+        </ContentWrap>
     </VideoWrap>
     );
     };
@@ -26,33 +26,32 @@ filter_alt
 
 
 const VideoWrap = styled.div `
-position:relative;
-z-index:-5;
-width:100%;
-height:70vh;
-transform:scale(1);
-overflow:hidden;
-object-fit:cover;
-video{
-position:absolute;
-width:100%;
-height:100%;
-top:0;
-left:0;
-object-fit:cover;
-}
+    position:relative;
+    z-index:-5;
+    width:100%;
+    height:70vh;
+    overflow:hidden;
+    object-fit:cover;
+        video{
+            position:absolute;
+            width:100%;
+            height:100%;
+            top:0;
+            left:0;
+            object-fit:cover;
+        }
 `;
 
 const ContentWrap = styled.div`
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-display:flex;
-justify-content:center;
-z-index:5;
-padding: 10rem 0 ;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content:center;
+    z-index:5;
+    padding: 10rem 0 ;
 `;
 
 const Content = styled.div`
@@ -61,7 +60,7 @@ const Content = styled.div`
     position:relative;
     padding: 0 4rem;
     margin-top:8rem;
-
+    cursor: pointer;
     h1{
         color:white;
         font-family: Arial, Helvetica, sans-serif;
@@ -72,7 +71,7 @@ const Content = styled.div`
         justify-content:center;
     }
     button{
-        cursor: pointer;
+        
         border: 0.1333rem solid #fff;
         padding: 1rem 5rem;
         border-radius:3rem;
