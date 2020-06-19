@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "category_title": "Surf",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw93562a0d/routing-tile/grambeau_t_0055_surfing_routing.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 2,
+      "category_title": "Climbing",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw52cd2420/routing-tile/etzel_k_1375_climbing_routing.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 3,
+      "category_title": "Trail Running",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw41ca5449/routing-tile/patitucci_d_0369_trail_routing.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 4,
+      "category_title": "Mountain Biking",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw8508a187/routing-tile/zoch_c_0267_MTB_routing.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 5,
+      "category_title": "Fly Fishing",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwc4eaa263/routing-tile/hutchins_j_0055_fish_routing.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 6,
+      "category_title": "Kitesurfing",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwbf3108b2/routing-tile/gibson_stu_0026_StoriesRouting_Kite.jpg?q=80&sw=350&"
+    },
+    {
+      "id": 7,
+      "category_title": "Snow",
+      "image_url": "https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwdab7146e/routing-tile/grove_g_1151_snow_routing.jpg?q=80&sw=350&"
+    }
+  ]
+}

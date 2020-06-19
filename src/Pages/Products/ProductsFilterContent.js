@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 
-const ProductsFilterContent =({selectedColotAndSize, chosenColor, list, setNum}) => {
+const ProductsFilterContent =({chosenColor, list, setNum}) => {
     const [contentList, setContentList] = useState(list);
 
     useEffect(() => {
@@ -30,14 +30,20 @@ const ProductsFilterContent =({selectedColotAndSize, chosenColor, list, setNum})
         <>
         <Content cententList={contentList}>
               {contentList.map((el)=> 
-               <Filter>
+            <Filter>
                <Img src={el.product_image} alt="img" />
-               <HoverImg src={el.hover_image[0]} alt="" />
+               {/* <HoverImg src={el.hover_image[0]} alt="" /> */}
                <TitleWrap>
                    <SlideTitle>{el.name}</SlideTitle>
                    <Price>{el.price_usd}</Price>
                </TitleWrap> 
-           </Filter>
+               <HoverImg src={el.hover_image[0]} alt="" />
+               <CircleWrap>
+                   {el.color.map(color => {
+                        return <Circle red={color.red} green={color.green} blue={color.blue} />     
+                    })} 
+               </CircleWrap>
+             </Filter>
            )}
         </Content>
         <Wrap>
@@ -101,6 +107,7 @@ const TitleWrap = styled.div`
     display:flex;
     flex-direction:column;
     position:relative;
+    padding-top:1rem;
 `;
 
 const SlideTitle = styled.div`
@@ -119,6 +126,26 @@ const Price = styled.div`
     color:#000;
     `;
 
+const CircleWrap = styled.ul`
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    height:auto;   
+    padding:0.555rem;
+`;
+
+const Circle = styled.li`
+    width:33px;
+    height:33px;
+    border:1.5px solid #dddddd;
+    border-radius:50%;
+    cursor:pointer;
+    margin: 0 0.3rem 0.3rem 0;
+    display:flex;
+    align-content:flex-end;
+    background-color: ${({red, green, blue}) => (`rgb(${red}, ${green}, ${blue})`)};
+    
+`;
 
 
 const Wrap = styled.div`

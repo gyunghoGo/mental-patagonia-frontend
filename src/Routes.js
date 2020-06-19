@@ -19,8 +19,6 @@ class Routes extends React.Component {
           <Route exact path="/cart" component={CartMain} />
           <Route exact path="/signin" component={SignIn} />
           <Route exact path="/modal" component={Modal} />
-          <Route exact path="/filtertop" component={HeaderFilterTop} />
-          <Route exact path="/app" component={App} />
         </Switch>
       </Router>
     );

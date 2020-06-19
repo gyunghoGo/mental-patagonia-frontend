@@ -52,6 +52,7 @@ const ProductsSlideItems = () => {
                     {itemsList.map((el) =>
                     <Slide>
                     <Img src={el.image_url} alt="img" />
+                    <HoverImg src={el.hoverImage_url} alt="img" />
                     <TitleWrap>
                     <SlideTitle>{el.title}</SlideTitle>
                     <Price>{el.price}</Price>
@@ -113,7 +114,7 @@ const SlideContainer = styled.div`
     padding: 0 3rem;
     position:relative;
     width:100%;
-    height:62vh;
+    height:55vh;
     margin: 0 auto;
     overflow:hidden;
 `;
@@ -133,9 +134,21 @@ const Slide = styled.div`
 `;
 
 const Img = styled.img`
-    width:400px;
-    height:450px;
+    width:320px;
+    height:330px;
     border-radius:3%;
+    position:relative;
+`;
+
+const HoverImg = styled.img`
+    width:320px;
+    height:330px;
+    position:absolute;
+    opacity:0;
+    transition: opacity .3s;
+    &:hover{
+        opacity:1;
+    }
 `;
 
 const TitleWrap = styled.div`

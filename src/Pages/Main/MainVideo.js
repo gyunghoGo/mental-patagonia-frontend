@@ -32,10 +32,6 @@ const MainVideoWrap = styled.section`
   z-index: -100;
   background-size: cover;
   overflow: hidden;
-  @media only screen and (max-width:${WIDTH800}){
-
-  }
-  
 `;
 
 const ContentWrap = styled.div`
@@ -50,12 +46,15 @@ const ContentWrap = styled.div`
   @media only screen and (max-width:${WIDTH800}){
     top:70%;
     text-align:left;
+    
+    
 }
 `;
 
 const HeroImg = styled.img`
   width: 400px;
 `;
+
 
 const ContentP = styled.p`
   font-size: 1.1rem;
