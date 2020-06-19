@@ -13,7 +13,7 @@ const SignIn = ({ history }) => {
     window.Kakao.Auth.login({
       success: (authObj) => {
         console.log("success : ", authObj);
-        fetch('http://10.58.0.221:8000/member/kakao', {
+        fetch('http://10.58.5.130:8080/member/kakao', {
       headers: {
         "Authorization": authObj.access_token
       },
@@ -26,6 +26,7 @@ const SignIn = ({ history }) => {
        }) 
       },
       fail: function (err) {
+        alert('Sorry, Please Check your information again!')
         console.log("에러", err);
       },
     })
@@ -57,9 +58,6 @@ const SignIn = ({ history }) => {
                 style={{ "backgroundColor": "#FEE500", color: "black" }}
               >
                 Sign in with Kakao
-              </Button>
-              <Button style={{ "backgroundColor": "#DF4A32" }}>
-                Sign in with Google
               </Button>
             </BtnWrap>
           </SigninContent>
@@ -143,7 +141,6 @@ const P = styled.div`
 const BtnWrap = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   height: 35%;
 `;
 
@@ -158,6 +155,7 @@ const Button = styled.button`
   font-size: 1rem;
   transition: 0.2s;
   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 5%;
   &:hover {
     transform: scale(1.05);
   }

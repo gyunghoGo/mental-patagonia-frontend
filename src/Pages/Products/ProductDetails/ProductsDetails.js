@@ -1,39 +1,43 @@
 import React, { useState,useEffect } from "react";
 import styled, { css } from "styled-components";
-import { withRouter, Link } from "react-router-dom";
+import { withRouter, Link, useParams } from "react-router-dom";
 import { connect } from "react-redux";
 import ProductsDetailHeader from "../../../Component/Header/ProductsDetailHeader";
 import Modal from "./Modal/Modal";
 import SlideCarousel from "../../Products/ProductDetails/SlideCarousel";
 import DetailsSection from "../ProductDetails/DetailsSection";
+import Similarity from "./Similarity";
 import Footer from "../../../Component/Footer/Footer";
 
 
-const ProductDetails = ( { handleModal, selectSize, selectColor } ) => {
-
+const ProductDetails = ( {handleModal, match} ) => {
 
   const [filteredProducts, setFilteredProducts] = useState([]);
 
 
-  useEffect(()=>{
-    fetch('http://10.58.7.224:8080/product/17')
+  const id = match.params.id;
+
+
+
+  useEffect((props, match)=>{
+    fetch(`http://10.58.5.130:8080/product/${id}`)
     .then(res=>res.json())
     .then(res => {
-      setFilteredProducts(res.data)
+      setFilteredProducts(res.data )
     })
   }, [])
-  
-  console.log("filtered >>", filteredProducts)
- 
+
 
 
   return (
     <>
       <ProductsDetailHeader />
+      <Review> {filteredProducts.review} Reviews </Review>
       <Title>{filteredProducts.name}</Title>
       <SlideCarousel data={filteredProducts} />
       <Modal data={filteredProducts} handleModal={handleModal} />
       <DetailsSection data={filteredProducts}  />
+      <Similarity data={filteredProducts} />
       <Footer />
     </>
   );
@@ -47,6 +51,13 @@ const mapStateToProps = (state) => {
 }
 
 export default connect(mapStateToProps)(ProductDetails);
+
+
+const Review = styled.div`
+  font-size: 80px;
+  color: black;
+  z-index: 999;
+`
 
 const Title = styled.h1`
   height: 100px;

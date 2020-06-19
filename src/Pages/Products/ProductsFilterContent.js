@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
+import { Link, withRouter } from "react-router-dom";
+
 
 const ProductsFilterContent =({chosenColor, list, setNum}) => {
     const [contentList, setContentList] = useState(list);
+    const [pageId, setPageId] = useState(); 
 
     useEffect(() => {
         setContentList(list);
@@ -22,15 +25,22 @@ const ProductsFilterContent =({chosenColor, list, setNum}) => {
         setContentList(filterList);
     }, [chosenColor])
 
+    const handleMouseEnter = (e) => {
+        setPageId(e.id)
+        console.log('들어옴')
+    } 
+
     // 필터링
     // setFilterSelect([...filterSelect, color]);
     
+  console.log("pageId",pageId);
 
     return(
         <>
+      <Link to={`/products/details/${pageId}`} className="toDatails">
         <Content cententList={contentList}>
               {contentList.map((el)=> 
-            <Filter>
+               <Filter onMouseEnter={()=>handleMouseEnter(el)} >
                <Img src={el.product_image} alt="img" />
                {/* <HoverImg src={el.hover_image[0]} alt="" /> */}
                <TitleWrap>
@@ -54,11 +64,12 @@ const ProductsFilterContent =({chosenColor, list, setNum}) => {
                 <i class="fas fa-chevron-right"></i>
             </Next>
          </Wrap>
+         </Link>
         </>
     );
 };
 
-export default ProductsFilterContent;
+export default withRouter(ProductsFilterContent);
 
 const Content = styled.div`
     padding-top:2rem;

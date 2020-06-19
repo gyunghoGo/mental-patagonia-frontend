@@ -1,14 +1,19 @@
 import React from "react";
 import styled from "styled-components";
+import { withRouter, Link } from "react-router-dom"; 
 import {WIDTH800} from "../../Config"
 
 const Slide = (props) => {
   return props.data.map((data) => {
     return (
+
       <SlideContent>
+       <Link to={'/products'}>
         <IMG src={data.image_url} />
         <P>{data.category_title}</P>
+       </Link>
       </SlideContent>
+
     );
   });
 };
@@ -41,6 +46,7 @@ const IMG = styled.img`
   width: 300px;
   height: 300px;
   border-radius: 3%;
+  cursor: pointer;
   @media only screen and (max-width:${WIDTH800}){
     width:650px;
     height:650px;
