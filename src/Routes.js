@@ -6,8 +6,6 @@ import ProductDetails from "./Pages/Products/ProductDetails/ProductsDetails";
 import SignIn from "./Pages/SignIn/SignIn";
 import CartMain from "./Pages/Cart/CartMain";
 import Modal from "./Pages/Products/ProductDetails/Modal/Modal";
-import HeaderFilterTop from "./Component/Header/HeaderTop/HeaderFilterTop";
-import App from "./Component/Scroll/App"
 
 
 class Routes extends React.Component {

@@ -46,7 +46,7 @@ const HoverHeaderShop = (props) => {
           </CategoryMenDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/products">
+          <Anchor href="/">
             <span>Packs and Gear</span>
           </Anchor>
           <CategoryDetailUl>
@@ -59,7 +59,7 @@ const HoverHeaderShop = (props) => {
           </CategoryDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/products">
+          <Anchor href="/">
             <span>Kids' and Baby</span>
           </Anchor>
           <CategoryDetailUl>
@@ -72,7 +72,7 @@ const HoverHeaderShop = (props) => {
           </CategoryDetailUl>
         </MenuLi>
         <MenuLi>
-          <Anchor href="/products">
+          <Anchor href="/">
             <span>Collections</span>
           </Anchor>
           <CategoryDetailUl>
