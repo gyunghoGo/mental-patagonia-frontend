@@ -2,24 +2,22 @@ import React from "react";
 import styled from "styled-components";
 import {WIDTH800} from "../../Config"
 
-const MainHero = () => {
+const MainHero2 = () => {
   return (
     <HeroWrap>
       <IMG />
       <HeroContent>
-        <Title>Comfort is Relative™</Title>
+        <Title>Sunnyside Up</Title>
         <Desc>
-          Our Fair Trade Certified™ sewn tech tees use a mix of recycled
-          materials and are made to handle all of the uncomfortable moments—and
-          the transitions between them.
+        Last November, Fitz Caldwell (age 6) finished his first multipitch climb, Sunnyside Bench in Yosemite National Park. He did it with his dad, Tommy.
         </Desc>
-        <Button>Capilene® Cool Tech Tees</Button>
+        <Button>Read</Button>
       </HeroContent>
     </HeroWrap>
   );
 };
 
-export default MainHero;
+export default MainHero2;
 
 const HeroWrap = styled.div`
   color: white;
@@ -29,7 +27,7 @@ const IMG = styled.img`
   width: 100vw;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://edge.dis.commercecloud.salesforce.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw866ad1a2/images/homepage/2560x1440_gnam_s_0874_HERO.jpg?q=90&sw=1600&");
+    url("https://www.patagonia.com/blog/wp-content/uploads/2020/05/siadak_a_0713_cc_web-16-9-450x253.jpg");
   background-size: cover;
   position: relative;
   opacity: 0.95;
@@ -44,23 +42,23 @@ const IMG = styled.img`
 const HeroContent = styled.div`
   position: absolute;
   color: white;
-  top: 200%;
+  top: 350%;
   width: 100%;
   padding-left:10%;
   padding-right:10%;
+  z-index:5;
   @media only screen and (max-width:${WIDTH800}){
     width:100%;
-    top:230%;
+    top:440%;
   }
 `;
 
 const Title = styled.div`
   font-size: 70px;
-  font-weight: 800;
   letter-spacing: 0.1;
   width: 90%;
-  font-family: Arial, Helvetica, sans-serif;
-  @media only screen and (max-width:${WIDTH800}){
+  font-family: Georgia,serif;
+    @media only screen and (max-width:${WIDTH800}){
     width:100%;
     font-size:2.3rem;
     letter-spacing:0.3px;
@@ -70,9 +68,10 @@ const Title = styled.div`
 const Desc = styled.p`
   font-size: 20px;
   line-height: 1.6;
+  letter-spacing:1.4;
   width: 65%;
   padding: 2.5% 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Georgia,serif;
   @media only screen and (max-width:${WIDTH800}){
     width:100%;
     font-size:1rem;
@@ -82,7 +81,7 @@ const Desc = styled.p`
 
 const Button = styled.button`
   background-color: white;
-  width: 34%;
+  width: 20%;
   padding: 2%;
   border-radius: 20rem;
   font-size: 16px;

@@ -56,7 +56,7 @@ const ProductsMens = (props) => {
     }
 
 
-    const getData = (offsetVal) => {
+    const getData = (offsetVal) => {        
         fetch(`http://3.34.144.236:8000/product?offset=${offsetVal}`)
         .then((res) => res.json())
         .then((res) => setContentList(res.data));
@@ -67,9 +67,6 @@ const ProductsMens = (props) => {
     }, [filterSelect])
 
     // const currentColor = filterSelect;
-    
-    
-
     return(
         <Container>
             <Row>
@@ -99,13 +96,13 @@ const ProductsMens = (props) => {
                                     <Brown onClick={() => setChosenColor('Brown')}></Brown>
                                     <Green onClick={() => setChosenColor('Green')}></Green>
                                     <Gray onClick={() => setChosenColor('Grey')}></Gray>
-                                    <Neutral onClick={() => setChosenColor('Neutral')}></Neutral>
-                                    <Orange onClick={() => setChosenColor('Orange')}></Orange>
+                                    <Neutral onClick={() => setChosenColor('Khaki')}></Neutral>
+                                    <Orange onClick={() => setChosenColor('Mango')}></Orange>
                                     <Pink onClick={() => setChosenColor('Pink')}></Pink>
                                     <Purple onClick={() => setChosenColor('Purple')}></Purple>
                                     <Red onClick={() => setChosenColor('Red')}></Red>
                                     <White onClick={() => setChosenColor('White')}></White>
-                                    <Yellow onClick={() => setChosenColor('Mango')}></Yellow>
+                                    <Yellow onClick={() => setChosenColor('Yellow')}></Yellow>
                                 </ColorCircle>
                             </ColorWrap>
                             <SizeWrap>
